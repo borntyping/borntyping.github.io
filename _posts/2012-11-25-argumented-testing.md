@@ -1,6 +1,6 @@
 ---
 title: Argumented Testing
-----
+---
 
 I've finally gotten round to ensuring [diceroll](https://github.com/borntyping/diceroll) has a set of unit tests, and along the way I've ended up creating a very small, but useful testing library, called `argumented` (as it lets you agument tests with arguments!).
 

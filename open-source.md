@@ -26,7 +26,7 @@ These are the Open Source projects that I have written and maintain. The majorit
 ### Scripts
 
 * [ssh-run](https://github.com/borntyping/ssh-run) - run commands remotely using your local files
-* [v](https://github.com/borntyping/v) - a tiny virtualenv manager
+* [v](https://github.com/borntyping/v) - a minimal [virtualenv]() manager
 
 ### Chef cookbooks
 
@@ -44,13 +44,21 @@ These are the Open Source projects that I have written and maintain. The majorit
 
 ## Contributions
 
-These are some of the projects that I have contributed to, though the list is not comprehensive.
+These are some of the projects I have contributed to:
 
 * [knife-axe](https://github.com/faja/knife-axe) - general improvements
 * [riemann-dash](https://github.com/aphyr/riemann-dash) - show event states, fix log view
-* [Supervisor](https://github.com/Supervisor/supervisor/) - documentation fixes and issue reports
-* [supervisor (cookbook)](https://github.com/poise/supervisor) - CentOS support for the supervisor cookbook (and more)
-* [berkshelf](https://github.com/berkshelf/berkshelf/pull/983) - remove implicit default source
+* [Supervisor](https://github.com/Supervisor/supervisor/) - documentation fixes
+* [supervisor (cookbook)](https://github.com/poise/supervisor) - CentOS support
+* [berkshelf](https://github.com/berkshelf/berkshelf) - suggested removal of default source
+
+While mentioned in the lists above, many of my projects extend or work with other open source software:
+
+* [Supervisor](http://supervisord.org/): Supermann
+* [Riemann](http://riemann.io/): riemann-client, Supermann
+* [Chef](http://www.getchef.com/): Sous-chef, knife-axe
+* [virtualenv](http://virtualenv.readthedocs.org/en/latest/): v
+* [Python](https://www.python.org/): colorlog, infix
 
 ***
 
@@ -61,7 +69,7 @@ These are incomplete or unmaintained projects. Most of them are either deprecate
 * [van-de-graaff](https://github.com/borntyping/van-de-graaff) - an experimental static site generator
 * [chef-ladder](https://github.com/borntyping/chef-ladder) - simple [librarian-chef](https://github.com/applicationsonline/librarian-chef) alternative
 * [PyTentD](https://github.com/pytent/pytentd) - a [tent.io](https://tent.io/) server implementation
-* [diceroll](https://github.com/borntyping/diceroll) - precursor to `python-dice`
+* [diceroll](https://github.com/borntyping/diceroll) - a precursor to [dice](https://github.com/borntyping/python-dice)
 * [kaos](https://github.com/borntyping/django-kaos) - a Django game management application
 * [misc](https://github.com/borntyping/misc) - minor unsorted projects
 * [nus](https://github.com/borntyping/nus) - a simple PHP CMS with nice urls
