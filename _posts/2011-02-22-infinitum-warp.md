@@ -1,7 +1,5 @@
 ---
-layout: post
-title: Infinitum: Warp
-summary:
+title: "Infinitum: Warp"
 ---
 
 Our drives are amazing machines. They can pull a ship though a node, between two points anywhere in the universe.

@@ -10,3 +10,12 @@ url: "http://borntyping.io"
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
+
+# Frontmatter defaults
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'post'
+    values:
+      layout: 'post'
