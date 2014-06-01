@@ -1,15 +1,19 @@
 # Site settings
 title: borntyping
 email: sam@borntyping.co.uk
-username: borntyping
-description: ""
-baseurl: ""
 url: "http://borntyping.io"
+
+# Theme settings
+author:
+  name: "Sam Clements"
+  url: "http://borntyping.io"
+tagline: "Sam Clements"
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
+paginate: 5
 
 # Frontmatter defaults
 defaults:
