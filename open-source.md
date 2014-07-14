@@ -11,7 +11,8 @@ These are the Open Source projects that I have written and maintain. The majorit
 * [Supermann](https://github.com/borntyping/supermann) - a process monitor connecting [Supervisor](http://supervisord.org/) and [Riemann](http://riemann.io/)
 * [datasift/sous-chef](https://github.com/datasift/sous-chef) - A small webapp for viewing and searching [Chef](http://www.getchef.com/) nodes
 * [watch-fs](https://github.com/borntyping/watch-fs) - run commands when files change
-* [spotter](https://github.com/borntyping/spotter) - a more complex precursor to watch-
+* [spotter](https://github.com/borntyping/spotter) - a more complex precursor to watch-fs
+* [ssh-run](https://github.com/borntyping/ssh-run) - run commands remotely using your local files
 
 ### Python libraries
 
@@ -23,18 +24,15 @@ These are the Open Source projects that I have written and maintain. The majorit
 * [infix](https://github.com/borntyping/python-infix) - infix syntax for Python
 * [cookiecutter-pypackage-minimal](https://github.com/borntyping/cookiecutter-pypackage-minimal) - minimal template for Python packages
 
-### Scripts
-
-* [ssh-run](https://github.com/borntyping/ssh-run) - run commands remotely using your local files
-* [v](https://github.com/borntyping/v) - a minimal [virtualenv]() manager
-
 ### Chef cookbooks
 
 * [datasift/alternate_search](https://github.com/datasift/alternate_search) - an alternate [Chef](http://www.getchef.com/) search syntax
+* [deployment](https://github.com/borntyping/deployment) - personal dotfiles repo in the form of a Chef repository
 * [ruby](https://github.com/borntyping/cookbook-ruby) - an alternate Ruby cookbook
 
-### Toys and games
+### Toys, games and prototypes
 
+* [metatest](https://github.com/borntyping/metatest) - a prototype test runner
 * [Assassin Rulebook](https://github.com/aberassassin/rulebook) - a Creative Commons rulebook for the game of Assassin
 * [excalibur](https://github.com/borntyping/excalibur) - constraint solver for [The Resistance](http://boardgamegeek.com/boardgame/41114/the-resistance)
 * [igor](https://github.com/borntyping/igor), [miranda](https://github.com/borntyping/miranda), [Aleph](https://github.com/borntyping/aleph), [Tactics](https://github.com/borntyping/tactics) - various attempts at an elegantly built IRC bot
@@ -64,8 +62,9 @@ While mentioned in the lists above, many of my projects extend or work with othe
 
 ## Unmaintained projects
 
-These are incomplete or unmaintained projects. Most of them are either deprecated by a better project, or were written a long time ago. I no longer maintain any of these projects.
+These are incomplete or unmaintained projects. Most of them are either deprecated by a better project, or were written a long time ago. I no longer maintain any of these projects, but feel free to ask questions or otherwise contact me about them.
 
+* [v](https://github.com/borntyping/v) - a minimal [virtualenv](https://virtualenv.pypa.io/en/latest/) manager, replaced by [virtualenvwrapper](http://virtualenvwrapper.readthedocs.org/)
 * [van-de-graaff](https://github.com/borntyping/van-de-graaff) - an experimental static site generator
 * [chef-ladder](https://github.com/borntyping/chef-ladder) - simple [librarian-chef](https://github.com/applicationsonline/librarian-chef) alternative
 * [PyTentD](https://github.com/pytent/pytentd) - a [tent.io](https://tent.io/) server implementation
