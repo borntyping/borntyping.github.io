@@ -15,6 +15,9 @@ highlighter: rouge
 permalink: pretty
 paginate: 5
 
+kramdown:
+  input: GFM
+
 # Frontmatter defaults
 defaults:
   -
