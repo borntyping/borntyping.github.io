@@ -44,9 +44,12 @@ Supervisor is developed on [GitHub](https://github.com/Supervisor/supervisor/), 
 
 In the best case, the source url could be defined in the specfile, and `spectool` could be used to download the tarball into the `SOURCES` folder:
 
+```
     Source0: https://github.com/Supervisor/supervisor/archive/3.0.tar.gz
-
+```
+```
     spectool --get-files --sourcedir supervisor.spec
+```
 
 Unfortunately, Github's tarball URLs use a series of redirects that result in a different name for the file, and so the files downloaded by `spectool` don't match the filenames `rpmbuild` expects.
 
@@ -86,26 +89,28 @@ This declares that the files should be owned by root, that Supervisors documenta
 
 This should result in a directory tree like this:
 
-    └── usr
-        ├── bin
-        │   ├── echo_supervisord_conf
-        │   ├── pidproxy
-        │   ├── supervisorctl
-        │   └── supervisord
-        ├── lib
-        │   └── python2.6
-        │       └── site-packages
-        │           ├── supervisor
-        │           ├── supervisor-3.0-py2.6.egg-info
-        │           └── supervisor-3.0-py2.6-nspkg.pth
-        └── share
-            └── doc
-                └── supervisor-3.0
-                    ├── CHANGES.txt
-                    ├── COPYRIGHT.txt
-                    ├── LICENSES.txt
-                    ├── PLUGINS.rst
-                    └── README.rst
+```
+└── usr
+    ├── bin
+    │   ├── echo_supervisord_conf
+    │   ├── pidproxy
+    │   ├── supervisorctl
+    │   └── supervisord
+    ├── lib
+    │   └── python2.6
+    │       └── site-packages
+    │           ├── supervisor
+    │           ├── supervisor-3.0-py2.6.egg-info
+    │           └── supervisor-3.0-py2.6-nspkg.pth
+    └── share
+        └── doc
+            └── supervisor-3.0
+                ├── CHANGES.txt
+                ├── COPYRIGHT.txt
+                ├── LICENSES.txt
+                ├── PLUGINS.rst
+                └── README.rst
+```
 
 ## Including configuration
 
@@ -165,6 +170,7 @@ And to then remove it in the pre-uninstall step:
 The `$1 = 0` statement [checks that the package is being removed](http://docs.fedoraproject.org/en-US/Fedora_Draft_Documentation/0.1/html/RPM_Guide/ch09s04s05.html).
 
 With these changes, the specfile should be complete, and the directory tree should now include files in `/etc` and `/var`:
+
 ```
 .
 ├── etc
