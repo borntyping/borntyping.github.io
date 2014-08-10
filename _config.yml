@@ -1,7 +1,7 @@
 # Site settings
 title: borntyping
 email: sam@borntyping.co.uk
-url: "http://borntyping.io"
+baseurl: '/'
 
 # Theme settings
 author:
@@ -14,7 +14,6 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-
 kramdown:
   input: GFM
 
