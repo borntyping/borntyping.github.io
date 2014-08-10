@@ -79,6 +79,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
+  margin-bottom: 1rem;
   font-size: 3rem;
 }
 
@@ -127,6 +128,7 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .content {
     max-width: 38rem;
+    max-width: 50%;
     margin-left: 20rem;
     margin-right: 2rem;
   }

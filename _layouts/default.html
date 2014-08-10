@@ -22,15 +22,10 @@
     <div class="sidebar">
       <div class="container sidebar-sticky">
         <div class="sidebar-about">
-          <h1>
-            <a href="{{ site.baseurl }}">
-              {{ site.title }}
-            </a>
-          </h1>
-          <p class="lead">{{ site.description }}</p>
+          <h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
         </div>
 
-        <nav class="sidebar-nav">
+        <nav class="sidebar-nav sidebar-nav-pages">
           <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
           {% for node in site.pages %}
             {% if node.title != null %}
@@ -40,6 +35,16 @@
             {% endif %}
           {% endfor %}
         </nav>
+
+        <nav class="sidebar-nav sidebar-nav-posts">
+          <span class="sidebar-nav-item">Recent Posts</span>
+          {% for node in site.posts limit:5 %}
+            {% if node.title != null %}
+                <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+            {% endif %}
+          {% endfor %}
+        </nav>
+
         <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
       </div>
     </div>
