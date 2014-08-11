@@ -44,19 +44,17 @@ These are the Open Source projects that I have written and maintain. The majorit
 
 These are some of the projects I have contributed to:
 
-* [knife-axe](https://github.com/faja/knife-axe) - general improvements
-* [riemann-dash](https://github.com/aphyr/riemann-dash) - show event states, fix log view
 * [Supervisor](https://github.com/Supervisor/supervisor/) - documentation fixes
-* [supervisor (cookbook)](https://github.com/poise/supervisor) - CentOS support
-* [berkshelf](https://github.com/berkshelf/berkshelf) - suggested removal of default source
+* [Supervisor (cookbook)](https://github.com/poise/supervisor) - CentOS support
+* [riemann-dash](https://github.com/aphyr/riemann-dash) - show event states, fix log view
+* [knife-axe](https://github.com/faja/knife-axe) - help improve initial version
 
 While mentioned in the lists above, many of my projects extend or work with other open source software:
 
 * [Supervisor](http://supervisord.org/): Supermann
-* [Riemann](http://riemann.io/): riemann-client, Supermann
-* [Chef](http://www.getchef.com/): Sous-chef, knife-axe
-* [virtualenv](http://virtualenv.readthedocs.org/en/latest/): v
-* [Python](https://www.python.org/): colorlog, infix
+* [Riemann](http://riemann.io/): Supermann, riemann-client
+* [Chef](http://www.getchef.com/): Sous-chef, alternate_search
+* [Python](https://www.python.org/): colorlog, infix, v
 
 ***
 
