@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/borntyping
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://borntyping.co.uk
+  * I am borntyping (https://keybase.io/borntyping) on keybase.
+  * I have a public key with fingerprint 085A 4ECB 0217 B1F7 C3E5  0212 01D4 6EC1 C419 6A92
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "085a4ecb0217b1f7c3e5021201d46ec1c4196a92",
+            "host": "keybase.io",
+            "key_id": "01d46ec1c4196a92",
+            "uid": "c61bc003ea4ec558a2f9e7a815c73c00",
+            "username": "borntyping"
+        },
+        "revoke": {
+            "sig_ids": [
+                "e9d26a96eb5446e320b23bbb575705600b9cf217103292e1e97fc76d2c5270430f"
+            ]
+        },
+        "service": {
+            "hostname": "borntyping.co.uk",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1415035783,
+    "expire_in": 157680000,
+    "prev": "f26baaf7ff9d8677a60fdc3483cb300671b82055630447306e3b64f4d5fc88b1",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.1.3
+Comment: https://keybase.io/crypto
+
+yMIfAnicZZJbSBVBHMbPsQtllgWRRhAxYD10tNmZnZ3dA1lRECUI0sWk4rgzO6vb
+yd3jnkvJQRTp8tDFXqoXw64QQQ/RPaObllj00uVk2c0gjC5vSWWFzUo9NS9z+X/z
++77/MD1Tx4Xyw7W936r6Dgw3hh/cXpMOra3u2p0FzLOaQDQL4mJssh23TvgJ33FT
+IAqgTkxVcAaRQpliU44FkWsEFUvVBFe4qhiaaSAQAfVeMrghMcxMijLHk2dyE3Os
+gPO/Pj1W4JrCOIRYBDaE6CayDUFNXSGcYlkIhEnhu2aDkGrm+W6qKSEjguYI8EXG
+i4sgdNKpkz5JEN0IhGEh6aAJRlRpiRFkCDPGCCUUEg1CZnBbdqNAjAwkFGFQm1PN
+QpwgClUMbbBZsqVnxuFj8KCx//zLuFeWjst0Cd9LedzbKqv1qVQiGgSTkkC9TbDY
+X06MOa4VxI6AjPCTjueCqCKVPOUEYEVVCMSE6jgCxPaE44uYEygI1XQoR2AjMhJp
+I42Zpk1t27B0jVJTg7bFsapjzjCEGlWYjiAhGoaqSjGUD8A01VYtYnNdZwoIOmt0
+PRDVZEyzTiLl27lmKu0L0Hzn1qbxoXB+aOKEvOBvhPInT//3Y5acmBTa/37Cy7sn
+r/XEdi0qrm7LFK4oufSxYsGy7srOhoGCetq+82fvkaHc1fyB2M8nS+nTx5dOzOht
+n4yfFxX2rcwdG4mvaxvJfnjW8Gpu/4tP4bWlyUG+vODMaGjP7fPfFxf1b8uOIhXn
+3pLnx2s2n3p0cVXh/lnIq2yPvMsbx+ctf/154FDzkysf1+e53VMK5jwcGhjsOqt2
+7iueXXw2vbelc+KLpqPxobYo7785c+Fw6bffLfNfW8av+VsrN7SuvmeWjl5taSv8
+cTpchTrOlbNd8ZPTmim6v6WrsejNZbL3XFXOr32DHy6GFQ++XF9Wog+Wb49le/jB
+w7kdHTU3LtSEa7+2/gGqczMu
+=cuRH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/borntyping
+
+==================================================================
