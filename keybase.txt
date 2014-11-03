@@ -69,3 +69,80 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/borntyping
 
 ==================================================================
+
+==================================================================
+https://keybase.io/borntyping
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://borntyping.io
+  * I am borntyping (https://keybase.io/borntyping) on keybase.
+  * I have a public key with fingerprint 085A 4ECB 0217 B1F7 C3E5  0212 01D4 6EC1 C419 6A92
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.2"
+        },
+        "key": {
+            "fingerprint": "085a4ecb0217b1f7c3e5021201d46ec1c4196a92",
+            "host": "keybase.io",
+            "key_id": "01D46EC1C4196A92",
+            "uid": "c61bc003ea4ec558a2f9e7a815c73c00",
+            "username": "borntyping"
+        },
+        "merkle_root": {
+            "ctime": 1415036316,
+            "hash": "ae44ff044033467281e959e4b1c566266d71edd366a80cde5013fa8db3c83dd1e1225dc182074b847446f9c7f970e55c5bf34a6b6aa8c05db7bc1d606063ac22",
+            "seqno": 91291
+        },
+        "service": {
+            "hostname": "borntyping.io",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1415036381,
+    "expire_in": 157680000,
+    "prev": "d786d354217b4e12f878be24369135c3bfa741678be19f8cac4433f78b293ba7",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFlUl1oHUUUvona0opGoxdsKhoWKT6EsLPzuxcaKDFYkUarQWOt3jt/m+xturvZ
+3aYNtykoPvQq0dTqg2LFYiuVIMHWoAWrVgUbVIiIFpUiUrWaaAolQYVKnIkR/2Ze
+zsz55jvfd+aMXXFJobGh8sEvm6fGFgYbPvxRFHruPXGm5ohYDTulmiMHQh3lNor4
+du2UnG16WPBMt4dxaxQr3V7NWpcxbc6QTrMwjgzKbaftnjPSZuH2cRBGfTpN0tBy
+OS7DHGkpXA9QAQIqocYm9lygENESSAR8wn3PUPbHWf6vqs4SZzlUlgfcgkhXJ+i0
++A1L+B1LCUmAkK4LtS2DMeNe4GvKGcCSQpOwwEyny5ZEnEb5cGIkWsXbdbptQJfT
+OF6yLfPQggAC2IUEAmI08azfPOMaoSBwEXIhRIR6DGgf+xoJIDEhHiGKAq0UJIQz
+VypjEcCAMyWgZFApoIHnYSUB81yKBEMUIRL4kgY+dTXGEosAIk4E4ZxJFytBhQSK
+uGZDLj3rNtODUeyUfOD5YMQe06FQaivb9u1/9v5sX5LGeSzjAZPqz/OkZE2bvIXu
+1BOivMxSFmGkbE/+8a+2yH8awkCbo3clYarLoUVgSphrlq2jhwynoowoiJH9a2Q8
+B4wyoT0EiQ8gllAEnCJA7CXwAya5RAjCwJw9HwpO/7bJjE7eZyizsC/i+Y5UOyP1
+husvLTQ0FlZc1mgHt7B61VV/TfMDp1ZebLpQPFyhr6+X67rfPjg6c9eaFdVz/JMn
+3ip+9vuhu/fMHvl4pvfBvdfcfB36brHl+9GjjcnYxJkJUq3Vm1517js9fjZqOX7u
+tklydlftxoX56lOD9emN58mBtelvRze9kfTOT04vfPFT155qx0JXRrZc2bM539v9
+2trm269+/LnSyfTrxTpf/+uJ5lcqk4O9Bzv3ff7w/qjl5UNf3TD1/Ny64dWXb+ze
+vb9pfF/9SM/TMyfnFrtWPnPg02e3fjO7s7KIm3rfZ4+MV6fuf+yl4nz5ppFCx8+1
+96qnS/ec75x758VrN0wXLz76JTj+7g/JR6PH4IVieXfHt82tW49tqSR3zr655tQL
+tz705Ko7Nv0B
+=udKq
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/borntyping
+
+==================================================================
