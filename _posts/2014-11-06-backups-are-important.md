@@ -39,4 +39,3 @@ You can use Git and Mercurial on your own server with nothing more than SSH acce
  - Remember to regularly save work in progress.
  - Your work doesn't exist until there are at least two copies.
  - It doesn't count if those copies are in the same physical location.
- - If you read this and then lose work I will laugh at you.
