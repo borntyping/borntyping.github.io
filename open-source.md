@@ -4,7 +4,7 @@ title: Open Source
 permalink: /open-source/
 ---
 
-These are the Open Source projects that I have written and maintain. The majority of these projects use GitHub's issue tracker - bug reports and feature requests are welcome on any of these projects. If you do not have a GitHub account, or otherwise need to contact me, you can email me at [sam@borntyping.co.uk](mailto:sam@borntyping.co.uk).
+These are the Open Source projects that I have written and maintain. The majority of these projects use GitHub's issue tracker - bug reports and feature requests are welcome on any of these projects. If you do not have a GitHub account, or otherwise need to contact me, you can email me at [sam@borntyping.co.uk](mailto:sam@borntyping.co.uk). More information on the status of these projects can be found on my [status page](http://docs.borntyping.io/en/latest/status.html).
 
 ### Applications
 
@@ -13,6 +13,8 @@ These are the Open Source projects that I have written and maintain. The majorit
 * [Sous-chef](https://github.com/borntyping/sous-chef) - a tiny frontend for viewing and searching [Chef](http://www.getchef.com/) nodes and packages
 * [watch-fs](https://github.com/borntyping/watch-fs) - run commands when files change
 * [ssh-run](https://github.com/borntyping/ssh-run) - run commands remotely using your local files
+* [clack](https://github.com/borntyping/clack) - run multiple iterations of the same command
+* [v](https://github.com/borntyping/v) - a minimal [virtualenv](https://virtualenv.pypa.io/en/latest/) manager
 
 ### Python libraries
 
@@ -31,9 +33,11 @@ These are the Open Source projects that I have written and maintain. The majorit
 
 ### Toys, games and prototypes
 
+Other prototypes and experiments can be found under [borntyping-sandbox](https://github.com/borntyping-sandbox) on GitHub.
+
 * [Assassin Rulebook](https://github.com/aberassassin/rulebook) - a Creative Commons rulebook for the game of Assassin
-* [excalibur](https://github.com/borntyping/excalibur) - incomplete constraint solver for [The Resistance](http://boardgamegeek.com/boardgame/41114/the-resistance)
-* [igor](https://github.com/borntyping/igor), [miranda](https://github.com/borntyping/miranda), [Aleph](https://github.com/borntyping/aleph), [Tactics](https://github.com/borntyping/tactics) - various attempts at an elegantly built IRC bot
+* [excalibur](https://github.com/borntyping-sandbox/excalibur) - incomplete constraint solver for [The Resistance](http://boardgamegeek.com/boardgame/41114/the-resistance)
+* [igor](https://github.com/borntyping-sandbox/igor), [miranda](https://github.com/borntyping-sandbox/miranda), [Aleph](https://github.com/borntyping-sandbox/aleph), [Tactics](https://github.com/borntyping-sandbox/tactics) - various attempts at an elegantly built IRC bot
 * [this-is-a-game](https://github.com/borntyping/this-is-a-game) - a very basic HTML5 game
 
 ***
@@ -63,11 +67,10 @@ Several of my above projects were built specifically for [DataSift](http://datas
 These are incomplete or unmaintained projects. Most of them are either deprecated by a better project, or were written a long time ago. I no longer maintain any of these projects, but feel free to ask questions or otherwise contact me about them.
 
 * (2014) [metatest](https://github.com/borntyping/metatest) - a prototype test runner
-* (2014) [v](https://github.com/borntyping/v) - a minimal [virtualenv](https://virtualenv.pypa.io/en/latest/) manager
 * (2013) [chef-ladder](https://github.com/borntyping/chef-ladder) - simple [librarian-chef](https://github.com/applicationsonline/librarian-chef) alternative
 * (2013) [spotter](https://github.com/borntyping/spotter) - a more complex precursor to [watch-fs](https://github.com/borntyping/watch-fs) 
 * (2013) [diceroll](https://github.com/borntyping/diceroll) - a precursor to [dice](https://github.com/borntyping/python-dice)
-* (2013) [van-de-graaff](https://github.com/borntyping/van-de-graaff) - an experimental static site generator
+* (2013) [van-de-graaff](https://github.com/borntyping-sandbox/van-de-graaff) - an experimental static site generator
 * (2013) [PyTentD](https://github.com/pytent/pytentd) - a [tent.io](https://tent.io/) server implementation
 * (2013) [misc](https://github.com/borntyping/misc) - minor unsorted projects
 * (2012) [kaos](https://github.com/borntyping/django-kaos) - a Django game management application
