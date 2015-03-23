@@ -11,11 +11,12 @@ tagline: "Sam Clements"
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
+highlighter: pygments
 permalink: pretty
 paginate: 5
 kramdown:
   input: GFM
+safe: true
 
 # Frontmatter defaults
 defaults:
