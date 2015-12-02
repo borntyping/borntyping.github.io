@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Error handling in Rust
-published: false
 ---
 
 A short cheatsheet for dealing with `Return` values in [Rust](http://rust-lang.org/).
