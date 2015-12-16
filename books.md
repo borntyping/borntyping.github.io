@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Books and other media
+title: Books
 permalink: /books/
 ---
 
@@ -10,20 +10,20 @@ permalink: /books/
 - _**Monstrous Regiment**_, Terry Pratchett
 - _**Good Omens**_, Terry Pratchett
 - _**Mortal Engines**_, Philip Reeve (series)
-- _**The Edge Chronicles**_ (series)
-- _**Ancillary Justice**_ (series)
+- _**The Edge Chronicles**_, Chris Riddell and Paul Stewart (series)
+- _**Imperial Radch**_, Ann Leckie (series)
 - _**The Metamorphosis of Prime Intellect**_, Roger Williams ([read online][PI], &#9888;)
-- _Ready Player One_
-- _Snow Crash_
-- _The Southern Reach_ (series)
+- _Ready Player One_, Ernest Cline
+- _Snow Crash_, Neal Stephenson
+- _The Southern Reach_, Jeff VanderMeer (series)
 - _Tuf Voyaging_, George RR Martin.
 - _Redshirts_, John Scalzi
-- _Ptolemy's Gate_, (series)
-- _The Knife Of Never Letting Go_, (series, &#9888;)
-- _Artemis Fowl_, (series)
-- _The Martian_
+- _Ptolemy's Gate_, Jonathan Stroud (series)
+- _Chaos Walking_, Patrick Ness (series, &#9888;)
+- _Artemis Fowl_, Eoin Colfer (series)
+- _The Martian_, Andy Weir
 - _The Expanse_, James S. A. Corey (series)
-- _The Forever War_ (&#9888;)
+- _The Forever War_, Joe Haldeman (&#9888;)
 
 ## Fanfiction
 
@@ -46,9 +46,10 @@ permalink: /books/
 
 - _**Shlock Mercenary**_, Howard Taylor
 - _**Questionable Content**_, Jeph Jacques
-- _Order of the Stick_
-- _Leftover Soup_
-- _Sandra and Woo_
+- _Order of the Stick_, Rich Burlew
+- _Leftover Soup_, 'Tailsteak'
+- _Sandra and Woo_, Oliver Knörzer and Puri Andini
+- _Erfworld_, Puri Andini
 
 ## Films
 
