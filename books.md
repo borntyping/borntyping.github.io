@@ -4,10 +4,20 @@ title: Books
 permalink: /books/
 ---
 
+I've avoided including many extremely well known works in this list in the hopes
+of it remaining useful as a list of new books or media to try - for example,
+I've not included _Lord of the Rings_ or _The Hitchhikers Guide to the Galaxy_.
+
+Books and media highlighted in bold are the best of this list, and I've only
+marked fiction that is not only excellent but was in some way influential to me
+(not life-changing or eye-opening, but deeply interesting to me). Content marked
+with a &#9888; contains content that may be distressing (beyond that which you
+might normally find in fiction.)
+
 ## Fiction
 
 - _**Discworld**_, Terry Pratchett (series)
-- _**Monstrous Regiment**_, Terry Pratchett
+  - _**Monstrous Regiment**_, Terry Pratchett
 - _**Good Omens**_, Terry Pratchett
 - _**Mortal Engines**_, Philip Reeve (series)
 - _**The Edge Chronicles**_, Chris Riddell and Paul Stewart (series)
