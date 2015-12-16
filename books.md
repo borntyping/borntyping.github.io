@@ -23,7 +23,7 @@ permalink: /books/
 - _Artemis Fowl_, Eoin Colfer (series)
 - _The Martian_, Andy Weir
 - _The Expanse_, James S. A. Corey (series)
-- _The Forever War_, Joe Haldeman (&#9888;)
+- _The Forever War_, Joe Haldeman
 
 ## Fanfiction
 
@@ -35,7 +35,7 @@ permalink: /books/
 - _**Transmetropolitan**_, Warren Ellis
 - _**Global Frequency**_, Warren Ellis
 - _Preacher_, Garth Ennis (&#9888;)
-- _The Boys_,  Garth Ennis (&#9888;)
+- _The Boys_,  Garth Ennis
 - _R.E.D._, Warren Ellis
 - _Superman: Red Son_, Mark Millar
 - _All-Star Superman_, Grant Morrison
