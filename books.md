@@ -11,7 +11,7 @@ Books and media highlighted in bold are the best of this list, and I've only mar
 ## Fiction
 
 - _**Discworld**_, Terry Pratchett (series)
-  - _**Monstrous Regiment**_, Terry Pratchett
+- _**Monstrous Regiment**_, Terry Pratchett
 - _**Good Omens**_, Terry Pratchett
 - _**Mortal Engines**_, Philip Reeve (series)
 - _**The Edge Chronicles**_, Chris Riddell and Paul Stewart (series)
