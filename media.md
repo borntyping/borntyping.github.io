@@ -10,18 +10,20 @@ permalink: /books/
 - _**Monstrous Regiment**_, Terry Pratchett
 - _**Good Omens**_, Terry Pratchett
 - _**Mortal Engines**_, Philip Reeve (series)
-- _**The Edge Chronicles*** (series)
-- _**Ancillary Justice*** (series)
+- _**The Edge Chronicles**_ (series)
+- _**Ancillary Justice**_ (series)
+- _**The Metamorphosis of Prime Intellect**_, Roger Williams ([read online][PI], &#9888;)
 - _Ready Player One_
 - _Snow Crash_
 - _The Southern Reach_ (series)
 - _Tuf Voyaging_, George RR Martin.
 - _Redshirts_, John Scalzi
 - _Ptolemy's Gate_, (series)
-- _The Knife Of Never Letting Go_, (series)
+- _The Knife Of Never Letting Go_, (series, &#9888;)
 - _Artemis Fowl_, (series)
 - _The Martian_
 - _The Expanse_, James S. A. Corey (series)
+- _The Forever War_ (&#9888;)
 
 ## Fanfiction
 
@@ -32,13 +34,13 @@ permalink: /books/
 - _**Scott Pilgrim**_, Bryan Lee O'Malley
 - _**Transmetropolitan**_, Warren Ellis
 - _**Global Frequency**_, Warren Ellis
-- _Preacher_, Garth Ennis
-- _The Boys_,  Garth Ennis
+- _Preacher_, Garth Ennis (&#9888;)
+- _The Boys_,  Garth Ennis (&#9888;)
 - _R.E.D._, Warren Ellis
 - _Superman: Red Son_, Mark Millar
 - _All-Star Superman_, Grant Morrison
 - _Switchblade Honey_, Warren Ellis
-- _WE3_, Grant Morrison 
+- _WE3_, Grant Morrison
 
 ## Webcomics
 
@@ -70,3 +72,5 @@ permalink: /books/
 - _Starbound_
 - _Shadowrun: Dragonfall_
 - _Dragon Age: Origins_
+
+[PI]: http://localroger.com/prime-intellect/
