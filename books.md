@@ -28,6 +28,8 @@ Books and media highlighted in bold are the best of this list, and I've only mar
 - _The Martian_, Andy Weir
 - _The Expanse_, James S. A. Corey (series)
 - _The Forever War_, Joe Haldeman
+- _The Lives of Tao_, Wesley Chu (first in series)
+- _The Reality Dysfunction_, Peter F. Hamilton (first in series, &#9888;)
 
 ## Fanfiction
 
@@ -73,9 +75,10 @@ Books and media highlighted in bold are the best of this list, and I've only mar
 
 - _**Dishonoured**_
 - _Burnout Paradise_
-- _UFO: Afterlight_
-- _Starbound_
-- _Shadowrun: Dragonfall_
 - _Dragon Age: Origins_
+- _Shadowrun: Dragonfall_ and _Shadowrun: Hong Kong_
+- _UFO: Afterlight_
+- _XCOM: Enemy Unknown_ and _XCOM 2_
+- _Xenonauts_
 
 [PI]: http://localroger.com/prime-intellect/
