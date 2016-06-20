@@ -43,7 +43,7 @@
 
         <nav class="sidebar-nav sidebar-nav-posts">
           <span class="sidebar-nav-item">Recent Posts</span>
-          {% for node in site.posts limit:5 %}{% if node.title != null %}
+          {% for node in site.posts limit:8 %}{% if node.title != null %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}{% endfor %}
         </nav>
