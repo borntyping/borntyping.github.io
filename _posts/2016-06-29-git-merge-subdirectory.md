@@ -13,7 +13,8 @@ git filter-branch --prune-empty --subdirectory-filter <subdirectory>/ temp
 In the repository the subdirectory is being merged into:
 
 ```bash
-git add remote other ../<other-repository>
+git remote add other ../<other-repository>
+git fetch other
 git merge -s ours --no-commit --allow-unrelated-histories other/temp
 git read-tree --prefix=<path> -u other/temp
 git commit
