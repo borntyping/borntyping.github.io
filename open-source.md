@@ -15,6 +15,7 @@ These are the Open Source projects that I have written and maintain. The majorit
 * [ssh-run](https://github.com/borntyping/ssh-run) - run commands remotely using your local files
 * [clack](https://github.com/borntyping/clack) - run multiple iterations of the same command
 * [v](https://github.com/borntyping/v) - a minimal [virtualenv](https://virtualenv.pypa.io/en/latest/) manager
+* [gocd-dashboard](https://github.com/datasift/gocd-dashboard) - simple pipeline/group status for [GoCD](http://gocd.io)
 
 ### Python libraries
 
@@ -39,6 +40,13 @@ Other prototypes and experiments can be found under [borntyping-sandbox](https:/
 * [excalibur](https://github.com/borntyping-sandbox/excalibur) - incomplete constraint solver for [The Resistance](http://boardgamegeek.com/boardgame/41114/the-resistance)
 * [igor](https://github.com/borntyping-sandbox/igor), [miranda](https://github.com/borntyping-sandbox/miranda), [Aleph](https://github.com/borntyping-sandbox/aleph), [Tactics](https://github.com/borntyping-sandbox/tactics) - various attempts at an elegantly built IRC bot
 * [this-is-a-game](https://github.com/borntyping/this-is-a-game) - a very basic HTML5 game
+
+Programs and components I built at university, as part of a prototype "reactive" monitoring tool:
+
+* [cyborg](https://github.com/borntyping/cyborg/) - monitor a system and "react" to problems
+* [mutiny](https://github.com/borntyping/mutiny/) - cause those problems
+* [rust-psutil](https://github.com/borntyping/rust-psutil) - process information library using procfs
+* [rust-riemann_client](https://github.com/borntyping/rust-riemann_client) - client library for riemann
 
 ***
 
