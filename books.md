@@ -17,9 +17,9 @@ Books and media highlighted in bold are the best of this list, and I've only mar
 - _**The Edge Chronicles**_, Chris Riddell and Paul Stewart (series)
 - _**Imperial Radch**_, Ann Leckie (series)
 - _**The Metamorphosis of Prime Intellect**_, Roger Williams ([read online][PI], &#9888;)
-- _Ready Player One_, Ernest Cline
 - _Snow Crash_, Neal Stephenson
 - _The Southern Reach_, Jeff VanderMeer (series)
+- _The Reality Dysfunction_, Peter F. Hamilton (series, &#9888;)
 - _Tuf Voyaging_, George RR Martin.
 - _Redshirts_, John Scalzi
 - _Ptolemy's Gate_, Jonathan Stroud (series)
@@ -29,11 +29,7 @@ Books and media highlighted in bold are the best of this list, and I've only mar
 - _The Expanse_, James S. A. Corey (series)
 - _The Forever War_, Joe Haldeman
 - _The Lives of Tao_, Wesley Chu (first in series)
-- _The Reality Dysfunction_, Peter F. Hamilton (first in series, &#9888;)
-
-## Fanfiction
-
-- _**Harry Potter and the Methods of Rationality**_, Eliezer Yudkowsky
+- _Harry Potter and the Methods of Rationality_, Eliezer Yudkowsky
 
 ## Comics
 
@@ -53,32 +49,28 @@ Books and media highlighted in bold are the best of this list, and I've only mar
 - _**Shlock Mercenary**_, Howard Taylor
 - _**Questionable Content**_, Jeph Jacques
 - _Order of the Stick_, Rich Burlew
-- _Leftover Soup_, 'Tailsteak'
-- _Sandra and Woo_, Oliver Knörzer and Puri Andini
 - _Erfworld_, Puri Andini
 
 ## Films
 
-- _**Equilibrium**_
+- _Equilibrium_
 - _Dredd_
 - _John Wick_
-- _Fast And Furious_ (series)
 - _The Princess Bride_
 - _The Fifth Element_
 - _Starship Troopers_
 - _The Matrix_
 - _The Equaliser_
 - _Riddick_
-- The _Marvel Cinematic Universe_ (collection)
 
 ## Games
 
-- _**Dishonoured**_
+- _Dishonoured_
 - _Burnout Paradise_
-- _Dragon Age: Origins_
-- _Shadowrun: Dragonfall_ and _Shadowrun: Hong Kong_
+- _Dragon Age_ (series)
+- _Shadowrun_ (series)
 - _UFO: Afterlight_
-- _XCOM: Enemy Unknown_ and _XCOM 2_
+- _XCOM_ (series)
 - _Xenonauts_
 
 [PI]: http://localroger.com/prime-intellect/
