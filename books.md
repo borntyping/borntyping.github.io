@@ -16,7 +16,7 @@ Books and media highlighted in bold are the best of this list, and I've only mar
 - _**Mortal Engines**_, Philip Reeve (series)
 - _**The Edge Chronicles**_, Chris Riddell and Paul Stewart (series)
 - _**Imperial Radch**_, Ann Leckie (series)
-- _**The Metamorphosis of Prime Intellect**_, Roger Williams ([read online][PI], &#9888;)
+- _**The Metamorphosis of Prime Intellect**_, Roger Williams (&#9888;)
 - _Snow Crash_, Neal Stephenson
 - _The Southern Reach_, Jeff VanderMeer (series)
 - _The Reality Dysfunction_, Peter F. Hamilton (series, &#9888;)
@@ -72,5 +72,3 @@ Books and media highlighted in bold are the best of this list, and I've only mar
 - _UFO: Afterlight_
 - _XCOM_ (series)
 - _Xenonauts_
-
-[PI]: http://localroger.com/prime-intellect/
