@@ -30,6 +30,7 @@ Books and media highlighted in bold are the best of this list, and I've only mar
 - _The Forever War_, Joe Haldeman
 - _The Lives of Tao_, Wesley Chu (first in series)
 - _Harry Potter and the Methods of Rationality_, Eliezer Yudkowsky
+- _Mister Vimes'd Go Spare!_, Lunik ([*](http://archiveofourown.org/works/244534))
 
 ## Comics
 
