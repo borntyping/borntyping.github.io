@@ -16,6 +16,7 @@ Books and media highlighted in bold are the best of this list, and I've only mar
 - _**Mortal Engines**_, Philip Reeve (series)
 - _**The Edge Chronicles**_, Chris Riddell and Paul Stewart (series)
 - _**Imperial Radch**_, Ann Leckie (series)
+- _**Voyage from Yesteryear**_, James P. Hogan
 - _**The Metamorphosis of Prime Intellect**_, Roger Williams (&#9888;)
 - _Snow Crash_, Neal Stephenson
 - _The Southern Reach_, Jeff VanderMeer (series)
