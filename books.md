@@ -29,7 +29,7 @@ Books and media highlighted in bold are the best of this list, and I've only bol
 - _The Expanse_, James S. A. Corey (series)
 - _The Forever War_, Joe Haldeman
 - _The Lives of Tao_, Wesley Chu (first in series)
-- _Harry Potter and the Methods of Rationality_, Eliezer Yudkowsky (fanfiction, [link](http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality)
+- _Harry Potter and the Methods of Rationality_, Eliezer Yudkowsky (fanfiction, [link](http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality))
 - _Mister Vimes'd Go Spare!_, Lunik (fanfiction, [link](http://archiveofourown.org/works/244534))
 
 ## Comics
