@@ -1,7 +1,6 @@
 # Site settings
 title: borntyping
 email: sam@borntyping.co.uk
-# baseurl: ''
 
 # Theme settings
 author:
@@ -10,13 +9,8 @@ author:
 tagline: "Sam Clements"
 
 # Build settings
-markdown: kramdown
-highlighter: pygments
 permalink: pretty
 paginate: 5
-kramdown:
-  input: GFM
-safe: true
 
 # Frontmatter defaults
 defaults:
