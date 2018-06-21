@@ -16,3 +16,75 @@ The approach works very neatly with packaging tools like RPM, which have seperat
 You could quite easily remove the manually incremented version number and loose no technical capability. However, I find simple, easy to remember numbers much easier to communicate than the long digit sequences an automatic release number will provide. Asking someone to check if they are running "version 4 or above" is much simpler than asking if the version number is "12034 or above" - people remember small numbers much more easily. You can also still use familiar [SemVer](https://semver.org/) like semantics to describe the scale of change - "we're upgrading from version 9034 to 9725" says very little about the changes involved, whereas "we're upgading from version 4.1 to 5.3" implies multiple large changes, or "we're upgading from version 4.1.0 to 4.1.1" implies a small fix. I find this is especially useful when communicating with non-technical people who use the application.
 
 However, a downside to this is that humans will likely end up being very lax about changing the version number. This is fine for me - I only use it to commuicate major changes and not small patches - but is unlikely to work for all cases. It's particually unsuited for libraries or APIs, where tracking API changes is important and strictly following [SemVer](https://semver.org/) may be important.
+
+## Managing version numbers in Python
+
+_The rest of this post goes describes an implementation of the above approach that I use for Python packages._
+
+A `release.txt` file includes the manually updated version number, and an optional `release.txt` file includes the CI/CD pipeline and job number. The `__version__` attribute in my Python module is set by reading from these files instead of being statically defined.
+
+##### `__init.py__`
+
+```python
+"""An example package."""
+
+import example.version
+
+__author__ = 'Sam Clements'
+__version__ = example.version.read_version(__file__)
+
+```
+
+##### `version.py`
+
+```python
+"""Read version numbers from an embedded text file."""
+
+import pathlib
+
+
+def read_version(relative_path):
+    version_path = pathlib.Path(relative_path).with_name('version.txt')
+    release_path = pathlib.Path(relative_path).with_name('release.txt')
+
+    version = version_path.read_text().strip()
+
+    if release_path.exists():
+        release = release_path.read_text().strip()
+        version = "{}-{}".format(version, release)
+
+    return version
+```
+
+This is included in the Python package metadata by using the [`attr:` directive](https://setuptools.readthedocs.io/en/latest/setuptools.html#configuring-setup-using-setup-cfg-files) in the [setuptools](https://setuptools.readthedocs.io/) `setup.cfg` file (a relatively recent feature that allows package metadata to be set by reading values from a Python module). For this to work properly, the `__init__` file has to import as little as possible, so that it's not including dependencies that may not be installed when you first build or install the package. For my projects, the `__init__.py` file normally only includes metadata and absolute essentials (e.g. exit handlers with no dependencies).
+
+```ini
+[metadata]
+name = example
+version = attr: example.__version__
+...
+```
+
+With everything setup to build the application as a Python package, I also use this in a Makefile that builds an RPM with the Python package using [fpm](https://github.com/jordansissel/fpm).
+
+```makefile
+CI_PIPELINE_ID?=0
+CI_JOB_ID?=0
+
+NAME=$(shell python setup.py --name)
+VERSION=$(shell cat odyssey/version.txt)
+RELEASE=$(CI_PIPELINE_ID).$(CI_JOB_ID)
+
+example/release.txt:
+	echo "$(RELEASE)" > "$@"
+	
+$(NAME)-$(VERSION)-$(RELEASE).x86_64.rpm:
+	fpm -s dir -t rpm \
+	--name "$(NAME)" \
+	--depends "python" \
+	--version "$(VERSION)" \
+	--iteration "$(RELEASE)" \
+	--maintainer "Sam Clements" \
+	.
+```
+
