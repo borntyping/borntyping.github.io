@@ -17,7 +17,7 @@ The rules for unseen say "you give away your location", but this does mean the c
 
 A character can be hidden from a creature even if the creature knows where they are[^location].  
 
-A character can shoot from cover without being discovered before they make their attack[^cover].
+A character can attack from cover without being discovered before they make their attack[^cover].
 
 A DM might call that hiding in the same spot results in disadvantage on the Dexterity (Stealth) check[^hidingagain].
 
