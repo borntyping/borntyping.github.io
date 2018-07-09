@@ -13,12 +13,13 @@ A character has advantage on attack rolls against creatures that can't see them[
 
 Some addition clarifications come from the game designers, but are not in the books:
 
-* The rules for unseen say "you give away your location", but this does mean the character is no longer hidden [^attacking]
-* A character can be hidden from a creature even if the creature knows where they are[^location].  
-* A character can shoot from cover without being discovered before they make their attack[^cover].
-* A DM might call that hiding in the same spot results in disadvantage on the Dexterity (Stealth) check[^hidingagain].
+The rules for unseen say "you give away your location", but this does mean the character is no longer hidden [^attacking]
 
+A character can be hidden from a creature even if the creature knows where they are[^location].  
 
+A character can shoot from cover without being discovered before they make their attack[^cover].
+
+A DM might call that hiding in the same spot results in disadvantage on the Dexterity (Stealth) check[^hidingagain].
 
 [^hiding]: [Hiding - Using Ability Scores - Basic Rules](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Initiative)
 [^hide]: [Hide - Combat - Basic Rules](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Hide)
