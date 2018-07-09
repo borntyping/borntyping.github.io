@@ -15,17 +15,16 @@ Some addition clarifications come from the game designers, but are not in the bo
 
 * The rules for unseen say "you give away your location", but this does mean the character is no longer hidden [^attacking]
 * A character can be hidden from a creature even if the creature knows where they are[^location].  
-* A character can shoot from cover without being discovered before they make their attack[^cover1][^cover2].
+* A character can shoot from cover without being discovered before they make their attack[^cover].
 * A DM might call that hiding in the same spot results in disadvantage on the Dexterity (Stealth) check[^hidingagain].
 
 
 
-[^hiding]: https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Initiative 
-[^hide]: https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Hide
-[^search]: https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Search
-[^unseen]: https://www.dndbeyond.com/compendium/rules/basic-rules/combat#UnseenAttackersandTargets
-[^attacking]: https://twitter.com/JeremyECrawford/status/834926797657550848
-[^location]: https://twitter.com/JeremyECrawford/status/834885800626008064
-[^cover1]: https://twitter.com/JeremyECrawford/status/836115576296611841
-[^cover2]: https://twitter.com/JeremyECrawford/status/834926309843189760
-[^hidingagain]: https://twitter.com/mikemearls/status/503967787346575360
+[^hiding]: [Hiding - Using Ability Scores - Basic Rules](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Initiative)
+[^hide]: [Hide - Combat - Basic Rules](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Hide)
+[^search]: [Search - Combat - Basic Rules](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#Search)
+[^unseen]: [Unseen Attackers and Targets - Combat - Basic Rules](https://www.dndbeyond.com/compendium/rules/basic-rules/combat#UnseenAttackersandTargets)
+[^attacking]: [@JeremyECrawford: "You're no longer hidden the moment your attack hits or misses."](https://twitter.com/JeremyECrawford/status/834926797657550848)
+[^location]: ["Issue that came up most often at Winter Fantasy was rogues wanting to always hide around corner, next end move out and attack hidden." @JeremyECrawford: "That's a legitimate use of Cunning Action."](https://twitter.com/JeremyECrawford/status/834885800626008064)
+[^cover]: [@JeremyECrawford: "Shooting from cover and running out into the open aren't the same thing."](https://twitter.com/JeremyECrawford/status/836115576296611841) ["So shooting a bow while hidden maybe grant the advantage, but running out in melee dont, does that sound about right?" @JeremyECrawford: "It does!"](https://twitter.com/JeremyECrawford/status/834926309843189760)
+[^hidingagain]: [@mikemearls: "DM's call - suggest atk with advantage, but disad to hide again. IMO if rogue sees target from hiding while hidden, can attack"](https://twitter.com/mikemearls/status/503967787346575360)
