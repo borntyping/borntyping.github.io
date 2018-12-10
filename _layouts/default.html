@@ -38,6 +38,14 @@
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}{% endfor %}
         </nav>
+        
+        <nav class="sidebar-nav">
+          <span class="sidebar-nav-item">Social</span>
+          <a rel="me" href="https://mastodon.social/@borntyping">Mastodon</a>
+          <a rel="me" href="http://twitter.com/borntyping">Twitter</a>
+          <a rel="me" href="http://github.com/borntyping/">GitHub</a>
+          <a rel="me" href="http://gitlab.com/borntyping/">GitLab</a>
+        </nav>
 
         <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
       </div>
