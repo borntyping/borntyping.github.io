@@ -23,19 +23,27 @@ Most of them are published on my [GitHub profile][github], and a few are publish
 
 I mostly build small tools and applications written in Python, usually to support development or systems adminstration workflows.
 
+## Pages
+
+<ul class="related-posts">
+{% for node in site.pages %}{% if node.title != null %}{% if node.layout == "page" %}
+  <li><h3><a href="{{ node.url }}">{{ node.title }}</a></h3></li>
+{% endif %}{% endif %}{% endfor %}
+</ul>
+
 ## Posts
 
 <ul class="related-posts">
-  {% for post in site.posts %}
-    <li>
-      <h3>
-        <a href="{{ post.url }}">
-          {{ post.title }}
-          <small>{{ post.date | date_to_string }}</small>
-        </a>
-      </h3>
-    </li>
-  {% endfor %}
+{% for post in site.posts %}
+  <li>
+    <h3>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+        <small>{{ post.date | date_to_string }}</small>
+      </a>
+    </h3>
+  </li>
+{% endfor %}
 </ul>
 
 [au]: http://www.aber.ac.uk/en/
