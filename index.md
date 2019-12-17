@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About me
 ---
 
 I am Sam Clements - a programmer, open-sourcerer, and game master.
@@ -29,9 +28,11 @@ My projects are published under [@borntyping][github] on GitHub and under [@born
 ## Pages
 
 <ul class="related-posts">
-{% for node in site.pages %}{% if node.title != null %}{% if node.layout == "page" %}
+{% for node in site.pages %}
+{% if node.layout == "page" && node.title != null %}
   <li><a href="{{ node.url }}">{{ node.title }}</a></li>
-{% endif %}{% endif %}{% endfor %}
+{% endif %}
+{% endfor %}
 </ul>
 
 ## Posts
