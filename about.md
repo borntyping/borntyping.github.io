@@ -6,8 +6,10 @@ permalink: /about/
 
 I am Sam Clements, an open-sourcerer and dungeon master.
 
-I previously have worked as a *IT Consultant* doing Python development at [General Bioinformatics][gb], as an *Operations Engineer* doing Ruby development at [DataSift][ds], and studied *Open Source Computing* at [Aberystwyth University][au].
-I generally work on "devops" projects, writing code in Python, Ruby, Bash and other languages to automate data and software release processes.
+I currently work as an _Automation Engineer_ at [InfoSum][is].
+I've previously worked as a *IT Consultant* doing Python development at [General Bioinformatics][gb] and as an *Operations Engineer* doing Ruby development at [DataSift][ds].
+I studied *Open Source Computing* at [Aberystwyth University][au].
+I generally work on "DevOps" projects, writing code in Python, Ruby, Bash and other languages to automate data and software release processes.
 
 Most of this blog's content are posts about [my own open source projects]({{ site.baseurl }}/open-source/), but it also includes technical notes, D&D guides and extremely short fiction.
 
@@ -17,6 +19,7 @@ You can contact me at [sam@borntyping.co.uk][email], as [@borntyping][twitter] o
 [dm]: https://en.wikipedia.org/wiki/Dungeon_Master
 [ds]: http://datasift.com/
 [gb]: https://www.generalbioinformatics.com/
+[is]: https://www.infosum.com/
 
 [github]: https://github.com/borntyping
 [email]: mailto:sam@borntyping.co.uk
