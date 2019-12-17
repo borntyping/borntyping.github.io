@@ -31,13 +31,6 @@
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
           {% endif %}{% endif %}{% endfor %}
         </nav>
-
-        <nav class="sidebar-nav sidebar-nav-posts">
-          <span class="sidebar-nav-item">Recent Posts</span>
-          {% for node in site.posts limit:10 %}{% if node.title != null %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}{% endfor %}
-        </nav>
         
         <nav class="sidebar-nav">
           <span class="sidebar-nav-item">Social</span>
