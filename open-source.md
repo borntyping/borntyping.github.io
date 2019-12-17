@@ -4,7 +4,7 @@ title: Open Source projects
 permalink: /open-source/
 ---
 
-These are the Open Source projects that I have written and maintain. The majority of these projects use GitHub's issue tracker - bug reports and feature requests are welcome on any of these projects. If you do not have a GitHub account, or otherwise need to contact me, you can email me at [sam@borntyping.co.uk](mailto:sam@borntyping.co.uk). More information on the status of these projects can be found on my [status page](http://docs.borntyping.io/en/latest/status.html).
+These are the Open Source projects that I have written and maintain. The majority of these projects use GitHub's issue tracker - bug reports and feature requests are welcome on any of these projects. If you do not have a GitHub account, or otherwise need to contact me, you can email me at [sam@borntyping.co.uk](mailto:sam@borntyping.co.uk).
 
 ### Applications
 
