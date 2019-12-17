@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Open Source
+title: Open Source projects
 permalink: /open-source/
 ---
 
