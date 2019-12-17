@@ -9,13 +9,13 @@ They appear in order of preference, while other entries on this list are sorted 
 
 I've avoided including well known works in this list in the hopes of it remaining useful as a list of new books and media to recommend to friends.
 
-Content marked with a &#9888; contains content that may be distressing, beyond that which you might normally find in fiction.
+Content marked with a † contains content that may be distressing, beyond that which you might normally find in fiction.
 
 ## Books
 
 - _**Discworld**_, Terry Pratchett (series)
 - _**Monstrous Regiment**_, Terry Pratchett
-- _**The Metamorphosis of Prime Intellect**_, Roger Williams ([availible online][prime intellect], &#9888;)
+- _**The Metamorphosis of Prime Intellect**_†, Roger Williams ([availible online][prime intellect])
 - _**Voyage from Yesteryear**_, James P. Hogan
 - _A Memory Called Empire_, Arkady Martine
 - _Imperial Radch_, Ann Leckie (series)
@@ -25,7 +25,7 @@ Content marked with a &#9888; contains content that may be distressing, beyond t
 - _Snow Crash_, Neal Stephenson
 - _The Forever War_, Joe Haldeman
 - _The Laundry Files_, Charlie Stross (series)
-- _The Reality Dysfunction_, Peter F. Hamilton (series, &#9888;)
+- _The Reality Dysfunction_†, Peter F. Hamilton (series)
 - _The Southern Reach_, Jeff VanderMeer (series)
 - _To Be Taught, If Fortunate_, Becky Chambers
 - _Tuf Voyaging_, George RR Martin
@@ -45,7 +45,7 @@ Content marked with a &#9888; contains content that may be distressing, beyond t
 - _**The Edge Chronicles**_, Chris Riddell and Paul Stewart (series)
 - _**The Old Kindom**_, Garth Nix (series)
 - _Artemis Fowl_, Eoin Colfer (series)
-- _Chaos Walking_, Patrick Ness (series, &#9888;)
+- _Chaos Walking_†, Patrick Ness (series)
 - _Ptolemy's Gate_, Jonathan Stroud (series)
 
 ## Comic books
@@ -53,7 +53,7 @@ Content marked with a &#9888; contains content that may be distressing, beyond t
 - _**Scott Pilgrim**_, Bryan Lee O'Malley
 - _**Transmetropolitan**_, Warren Ellis
 - _**Global Frequency**_, Warren Ellis
-- _Preacher_, Garth Ennis (&#9888;)
+- _Preacher_†, Garth Ennis
 - _The Boys_,  Garth Ennis
 - _R.E.D._, Warren Ellis
 - _Superman: Red Son_, Mark Millar
