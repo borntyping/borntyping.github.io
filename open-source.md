@@ -8,6 +8,8 @@ These are the Open Source projects that I have written and maintain. The majorit
 
 ### Applications
 
+* [jsonlog-cli](https://github.com/borntyping/jsonlog-cli) - parse and format JSON logfiles
+* [fidelius](https://github.com/borntyping/fidelius) - simple secrets management tool using GPG
 * [Supermann](https://github.com/borntyping/supermann) - a process monitor connecting [Supervisor](http://supervisord.org/) and [Riemann](http://riemann.io/)
 * [Mannhunter](https://github.com/borntyping/mannhunter) - a companion to Supermann that restarts processes when they pass a memory limit
 * [Sous-chef](https://github.com/borntyping/sous-chef) - a tiny frontend for viewing and searching [Chef](http://www.getchef.com/) nodes and packages
@@ -19,6 +21,7 @@ These are the Open Source projects that I have written and maintain. The majorit
 
 ### Python libraries
 
+* [jsonlog](https://github.com/borntyping/python-jsonlog) - adds JSON output to the Python logging module
 * [colorlog](https://github.com/borntyping/python-colorlog) - adds highlighting to the Python logging module
 * [riemann-client](https://github.com/borntyping/python-riemann-client) - a simple client and command line tool for [Riemann](http://riemann.io/)
 * [dice](https://github.com/borntyping/python-dice) - a dice expression parser and evaluator
@@ -36,6 +39,7 @@ These are the Open Source projects that I have written and maintain. The majorit
 
 Other prototypes and experiments can be found under [borntyping-sandbox](https://github.com/borntyping-sandbox) on GitHub.
 
+* [Death by Dice](https://github.com/borntyping/deathbydice) - a timeline for the D&D campaigns I've run
 * [Assassin Rulebook](https://github.com/aberassassin/rulebook) - a Creative Commons rulebook for the game of Assassin
 * [excalibur](https://github.com/borntyping-sandbox/excalibur) - incomplete constraint solver for [The Resistance](http://boardgamegeek.com/boardgame/41114/the-resistance)
 * [igor](https://github.com/borntyping-sandbox/igor), [miranda](https://github.com/borntyping-sandbox/miranda), [Aleph](https://github.com/borntyping-sandbox/aleph), [Tactics](https://github.com/borntyping-sandbox/tactics) - various attempts at an elegantly built IRC bot
