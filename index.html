@@ -1,33 +1,45 @@
 ---
 layout: default
-title: Home
+title: About me
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+  I am Sam Clements, an open-sourcerer and dungeon master.
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
+  I currently work as an _Automation Engineer_ at [InfoSum][is].
+  I've previously worked as a *IT Consultant* doing Python development at [General Bioinformatics][gb] and as an *Operations Engineer* doing Ruby development at [DataSift][ds].
+  I studied *Open Source Computing* at [Aberystwyth University][au].
+  I generally work on "DevOps" projects, writing code in Python, Ruby, Bash and other languages to automate data and software release processes.
+
+  Most of this blog's content are posts about [my own open source projects]({{ site.baseurl }}/open-source/), but it also includes technical notes, D&D guides and extremely short fiction.
+
+  You can contact me at [sam@borntyping.co.uk][email], as [@borntyping][twitter] on Twitter, and as [borntyping][github] on Github.
 </div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
+<div class="related">
+  <h2>Posts</h2>
+  <ul class="related-posts">
+    {% for post in site.posts %}
+      <li>
+        <h3>
+          <a href="{{ post.url }}">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
 </div>
+
+[au]: http://www.aber.ac.uk/en/
+[dm]: https://en.wikipedia.org/wiki/Dungeon_Master
+[ds]: http://datasift.com/
+[gb]: https://www.generalbioinformatics.com/
+[is]: https://www.infosum.com/
+
+[github]: https://github.com/borntyping
+[email]: mailto:sam@borntyping.co.uk
+[twitter]: https://twitter.com/borntyping
