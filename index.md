@@ -24,7 +24,7 @@ You can contact me as [Sam Clements][linkedin] on LinkedIn.
 I list some of my open source projects and contributions on the [Open source projects]({{ site.baseurl }}/open-source/) page on this site.
 I mostly build small tools and applications written in Python, usually to support development or systems adminstration workflows.
 
-My projects are published under [@borntyping][github] and [@borntyping-sandbox][github-sandbox] on GitHub and under [@borntyping][gitlab] on GitLab.
+My projects are published under [@borntyping][github] on GitHub and under [@borntyping][gitlab] on GitLab.
 
 ## Pages
 
