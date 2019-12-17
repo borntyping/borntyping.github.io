@@ -9,11 +9,13 @@ You can contact me by email at [sam@borntyping.co.uk][email] or on Twitter at [@
 
 ## Professional work
 
-I currently work as an _Automation Engineer_ doing Python developement at [InfoSum][is].
-I've previously worked as a *IT Consultant* doing Python development at [General Bioinformatics][gb]
-and as an *Operations Engineer* doing Ruby development at [DataSift][ds].
-I studied *Open Source Computing* at [Aberystwyth University][au].
-I generally work on "DevOps" projects, writing code in Python, Ruby, Bash and other languages to automate data and software release processes.
+I work on "DevOps" projects, writing code to automate data and software release processes.
+I usually build applications in Python, but have also written and published code using Rust, Ruby and Bash.
+
+* _2018-present_ Automation Engineer at [InfoSum][is]
+* _2017-2018_ IT Consultant at [General Bioinformatics][gb]
+* _2013-2017_ Operations Engineer at [DataSift][ds]
+* _2011-2015_ Studied *Open Source Computing* at [Aberystwyth University][au]
 
 You can contact me as [Sam Clements][linkedin] on LinkedIn.
 
@@ -28,7 +30,7 @@ My projects are published under [@borntyping][github] and [@borntyping-sandbox][
 
 <ul class="related-posts">
 {% for node in site.pages %}{% if node.title != null %}{% if node.layout == "page" %}
-  <li><h3><a href="{{ node.url }}">{{ node.title }}</a></h3></li>
+  <li><a href="{{ node.url }}">{{ node.title }}</a></li>
 {% endif %}{% endif %}{% endfor %}
 </ul>
 
@@ -39,12 +41,10 @@ I occasionally write about programming, package management, and D&D.
 <ul class="related-posts">
 {% for post in site.posts %}
   <li>
-    <h3>
-      <a href="{{ post.url }}">
-        {{ post.title }}
-        <small>{{ post.date | date_to_string }}</small>
-      </a>
-    </h3>
+    <a href="{{ post.url }}">
+      {{ post.title }}
+      <small>{{ post.date | date_to_string }}</small>
+    </a>
   </li>
 {% endfor %}
 </ul>
