@@ -4,35 +4,51 @@ title: Books
 permalink: /books/
 ---
 
-I've avoided including many extremely well known works in this list in the hopes of it remaining useful as a list of new books or media to try - for example, I've not included _Lord of the Rings_ or _The Hitchhikers Guide to the Galaxy_.
+Books and media highlighted in bold are the best of this list.
+They appear in order of preference, while other entries on this list are sorted alphabetically.
 
-Books and media highlighted in bold are the best of this list, and I've only bolded fiction that is not only excellent but was in some way influential to me (not life-changing or eye-opening, but deeply interesting to me). Content marked with a &#9888; contains content that may be distressing (beyond that which you might normally find in fiction.)
+I've avoided including well known works in this list in the hopes of it remaining useful as a list of new books and media to recommend to friends.
 
-## Fiction
+Content marked with a &#9888; contains content that may be distressing, beyond that which you might normally find in fiction.
+
+## Books
 
 - _**Discworld**_, Terry Pratchett (series)
 - _**Monstrous Regiment**_, Terry Pratchett
-- _**Good Omens**_, Terry Pratchett
+- _**The Metamorphosis of Prime Intellect**_, Roger Williams ([availible online][prime intellect], &#9888;)
+- _**Voyage from Yesteryear**_, James P. Hogan
+- _A Memory Called Empire_, Arkady Martine
+- _Imperial Radch_, Ann Leckie (series)
+- _Glasshouse_, Charlie Stross
+- _Good Omens_, Terry Pratchett
+- _Redshirts_, John Scalzi
+- _Snow Crash_, Neal Stephenson
+- _The Forever War_, Joe Haldeman
+- _The Laundry Files_, Charlie Stross (series)
+- _The Reality Dysfunction_, Peter F. Hamilton (series, &#9888;)
+- _The Southern Reach_, Jeff VanderMeer (series)
+- _To Be Taught, If Fortunate_, Becky Chambers
+- _Tuf Voyaging_, George RR Martin
+
+## Online media
+
+- _**Shlock Mercenary**_, Howard Taylor ([webcomic][schlock mercenary])
+- _**Questionable Content**_, Jeph Jacques ([webcomic][questionable content])
+- _**The Wandering Inn**_, ([web serial][the wandering inn])
+- _Harry Potter and the Methods of Rationality_, Eliezer Yudkowsky ([fanfiction][methods of rationality])
+- _Mister Vimes'd Go Spare!_, Lunik ([fanfiction][mr vimes'd go spare])
+- _The Order of the Stick_, Rich Burlew ([webcomic][order of the stick])
+
+## Young adult fiction
+
 - _**Mortal Engines**_, Philip Reeve (series)
 - _**The Edge Chronicles**_, Chris Riddell and Paul Stewart (series)
-- _**Voyage from Yesteryear**_, James P. Hogan
-- _**The Metamorphosis of Prime Intellect**_, Roger Williams (&#9888;, [link](http://localroger.com/prime-intellect/))
-- _Imperial Radch_, Ann Leckie (series)
-- _Snow Crash_, Neal Stephenson
-- _The Southern Reach_, Jeff VanderMeer (series)
-- _The Reality Dysfunction_, Peter F. Hamilton (series, &#9888;)
-- _Tuf Voyaging_, George RR Martin.
-- _Redshirts_, John Scalzi
-- _Ptolemy's Gate_, Jonathan Stroud (series)
-- _Chaos Walking_, Patrick Ness (series, &#9888;)
+- _**The Old Kindom**_, Garth Nix (series)
 - _Artemis Fowl_, Eoin Colfer (series)
-- _The Expanse_, James S. A. Corey (series)
-- _The Forever War_, Joe Haldeman
-- _The Lives of Tao_, Wesley Chu (first in series)
-- _Harry Potter and the Methods of Rationality_, Eliezer Yudkowsky (fanfiction, [link](http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality))
-- _Mister Vimes'd Go Spare!_, Lunik (fanfiction, [link](http://archiveofourown.org/works/244534))
+- _Chaos Walking_, Patrick Ness (series, &#9888;)
+- _Ptolemy's Gate_, Jonathan Stroud (series)
 
-## Comics
+## Comic books
 
 - _**Scott Pilgrim**_, Bryan Lee O'Malley
 - _**Transmetropolitan**_, Warren Ellis
@@ -45,9 +61,10 @@ Books and media highlighted in bold are the best of this list, and I've only bol
 - _Switchblade Honey_, Warren Ellis
 - _WE3_, Grant Morrison
 
-## Webcomics
-
-- _**Shlock Mercenary**_, Howard Taylor
-- _**Questionable Content**_, Jeph Jacques
-- _Order of the Stick_, Rich Burlew
-- _Erfworld_, Puri Andini
+[methods of rationality]: http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality
+[mr vimes'd go spare]: http://archiveofourown.org/works/244534
+[order of the stick]: http://www.giantitp.com/Comics.html
+[prime intellect]: http://localroger.com/prime-intellect/
+[schlock mercenary]: https://www.schlockmercenary.com/
+[the wandering inn]: https://wanderinginn.com/
+[questionable content]: questionablecontent.net/
