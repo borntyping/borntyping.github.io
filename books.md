@@ -10,7 +10,7 @@ Only the first book in a series is listed, except for special cases, but the ent
 
 I've avoided including well known works in this list in the hopes of it remaining useful as a list of new books and media to recommend to friends.
 
-Content marked with a † contains content that may be distressing, beyond that which you might normally find in fiction.
+Content marked with a † contains content that may be distressing, beyond that which you might normally find in fantasy or science fiction.
 
 ## Books
 
@@ -19,7 +19,7 @@ Content marked with a † contains content that may be distressing, beyond that 
 - _**Voyage from Yesteryear**_, James P. Hogan
 - _Annihilation_ (The Southern Reach, #1), Jeff VanderMeer
 - _A Memory Called Empire_, Arkady Martine
-- _Ancillary Justice_ (Imperial Radch_, #1) Ann Leckie (series)
+- _Ancillary Justice_ (Imperial Radch_, #1) Ann Leckie
 - _Gideon the Ninth_ (The Locked Tomb, #1), Tamsyn Muir
 - _Glasshouse_, Charlie Stross
 - _Good Omens_, Terry Pratchett
