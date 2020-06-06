@@ -6,6 +6,7 @@ permalink: /books/
 
 Books and media highlighted in bold are the best of this list.
 They appear in order of preference, while other entries on this list are sorted alphabetically.
+Only the first book in a series is listed, except for special cases, but the entire series usually carries the same recommendation.
 
 I've avoided including well known works in this list in the hopes of it remaining useful as a list of new books and media to recommend to friends.
 
@@ -13,20 +14,20 @@ Content marked with a † contains content that may be distressing, beyond that 
 
 ## Books
 
-- _**Discworld**_, Terry Pratchett (series)
-- _**Monstrous Regiment**_, Terry Pratchett
+- _**Monstrous Regiment**_ (Discworld, #31), Terry Pratchett
 - _**The Metamorphosis of Prime Intellect**_, Roger Williams ([availible online][prime intellect]) †
 - _**Voyage from Yesteryear**_, James P. Hogan
+- _Annihilation_ (The Southern Reach, #1), Jeff VanderMeer
 - _A Memory Called Empire_, Arkady Martine
-- _Imperial Radch_, Ann Leckie (series)
+- _Ancillary Justice_ (Imperial Radch_, #1) Ann Leckie (series)
+- _Gideon the Ninth_ (The Locked Tomb, #1), Tamsyn Muir
 - _Glasshouse_, Charlie Stross
 - _Good Omens_, Terry Pratchett
 - _Redshirts_, John Scalzi
 - _Snow Crash_, Neal Stephenson
+- _The Atrocity Archives_ (The Laundry Files, #1), Charlie Stross
 - _The Forever War_, Joe Haldeman
-- _The Laundry Files_, Charlie Stross (series)
-- _The Reality Dysfunction_, Peter F. Hamilton (series) †
-- _The Southern Reach_, Jeff VanderMeer (series)
+- _The Reality Dysfunction_ (Night's Dawn, #1), Peter F. Hamilton †
 - _To Be Taught, If Fortunate_, Becky Chambers
 - _Tuf Voyaging_, George RR Martin
 
