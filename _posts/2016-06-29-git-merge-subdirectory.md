@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Merging a subdirectory of a separate Git repository
+title: Merging a subdirectory of a git repository
 ---
 
 In the repository being merged:
