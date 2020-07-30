@@ -2,7 +2,7 @@
 layout: page
 ---
 
-I am Sam Clements - a programmer, open-sourcerer, and game master.
+I am Sam Clements - a programmer, operator, and open-sourcerer.
 
 You can contact me by email at [sam@borntyping.co.uk][email] or on Twitter at [@borntyping][twitter].
 
