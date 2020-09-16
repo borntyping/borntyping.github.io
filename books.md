@@ -15,18 +15,20 @@ Content marked with a † contains content that may be distressing, beyond that 
 ## Books
 
 - _**Monstrous Regiment**_ (Discworld #31), Terry Pratchett
-- _**The Metamorphosis of Prime Intellect**_, Roger Williams ([availible online][prime intellect]) †
+- _**Gideon the Ninth**_ (The Locked Tomb #1), Tamsyn Muir
 - _**Voyage from Yesteryear**_, James P. Hogan
+- _**The Metamorphosis of Prime Intellect**_, Roger Williams ([availible online][prime intellect]) †
 - _All Systems Red_ (The Murderbot Diaries #1), Martha Wells 
 - _Annihilation_ (The Southern Reach #1), Jeff VanderMeer
 - _A Memory Called Empire_, Arkady Martine
 - _Ancillary Justice_ (Imperial Radch #1) Ann Leckie
-- _Gideon the Ninth_ (The Locked Tomb #1), Tamsyn Muir
+- _Dragonoak: The Complete History of Kastelir_ (Dragonoak, #1) Sam Farren
 - _Glasshouse_, Charlie Stross
 - _Good Omens_, Terry Pratchett
 - _Redshirts_, John Scalzi
 - _Snow Crash_, Neal Stephenson
 - _The Atrocity Archives_ (The Laundry Files #1), Charlie Stross
+- _The Dragon's Path_ (The Dagger and the Coin #1), Daniel Abraham
 - _The Forever War_, Joe Haldeman
 - _The Reality Dysfunction_ (Night's Dawn #1), Peter F. Hamilton †
 - _To Be Taught, If Fortunate_, Becky Chambers
