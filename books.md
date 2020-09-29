@@ -36,6 +36,7 @@ Content marked with a † contains content that may be distressing, beyond that 
 
 ## Online media
 
+- _**17776**_, Jon Bois ([mixed media][17776])
 - _**Shlock Mercenary**_, Howard Taylor ([webcomic][schlock mercenary])
 - _**Questionable Content**_, Jeph Jacques ([webcomic][questionable content])
 - _**The Wandering Inn**_, ([web serial][the wandering inn])
@@ -72,3 +73,4 @@ Content marked with a † contains content that may be distressing, beyond that 
 [schlock mercenary]: https://www.schlockmercenary.com/
 [the wandering inn]: https://wanderinginn.com/
 [questionable content]: questionablecontent.net/
+[17776]: https://www.sbnation.com/a/17776-football/
