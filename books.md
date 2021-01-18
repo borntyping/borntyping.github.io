@@ -48,7 +48,7 @@ Content marked with a † contains content that may be distressing, beyond that 
 
 - _**Mortal Engines**_, Philip Reeve (series)
 - _**The Edge Chronicles**_, Chris Riddell and Paul Stewart (series)
-- _**The Old Kindom**_, Garth Nix (series)
+- _**The Old Kingdom**_, Garth Nix (series)
 - _Artemis Fowl_, Eoin Colfer (series)
 - _Chaos Walking_, Patrick Ness (series) †
 - _Ptolemy's Gate_, Jonathan Stroud (series)
