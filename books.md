@@ -25,7 +25,9 @@ Content marked with a † contains content that may be distressing, beyond that 
 - _Dragonoak: The Complete History of Kastelir_ (Dragonoak, #1) Sam Farren
 - _Glasshouse_, Charlie Stross
 - _Good Omens_, Terry Pratchett
+- _His Majesty's Dragon_ (Temeraire, #1), Naomi Novik
 - _Redshirts_, John Scalzi
+- _Revenger_ (Revenger #1), Alastair Reynolds
 - _Snow Crash_, Neal Stephenson
 - _The Atrocity Archives_ (The Laundry Files #1), Charlie Stross
 - _The Dragon's Path_ (The Dagger and the Coin #1), Daniel Abraham
@@ -40,7 +42,6 @@ Content marked with a † contains content that may be distressing, beyond that 
 - _**Shlock Mercenary**_, Howard Taylor ([webcomic][schlock mercenary])
 - _**Questionable Content**_, Jeph Jacques ([webcomic][questionable content])
 - _**The Wandering Inn**_, ([web serial][the wandering inn])
-- _Harry Potter and the Methods of Rationality_, Eliezer Yudkowsky ([fanfiction][methods of rationality])
 - _Mister Vimes'd Go Spare!_, Lunik ([fanfiction][mr vimes'd go spare])
 - _The Order of the Stick_, Rich Burlew ([webcomic][order of the stick])
 
