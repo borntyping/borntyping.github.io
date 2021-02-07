@@ -67,6 +67,11 @@ Content marked with a † contains content that may be distressing, beyond that 
 - _Switchblade Honey_, Warren Ellis
 - _WE3_, Grant Morrison
 
+## Films
+
+- _**Speed Racer**_, 2008
+- _**Knives Out**_, 2019
+
 [methods of rationality]: http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality
 [mr vimes'd go spare]: http://archiveofourown.org/works/244534
 [order of the stick]: http://www.giantitp.com/Comics.html
