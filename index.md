@@ -11,7 +11,8 @@ You can contact me by email at [sam@borntyping.co.uk][email] or on Twitter at [@
 I work on "DevOps" projects, writing code to automate data and software release processes.
 I usually build applications in Python, but have also written and published code using Rust, Ruby and Bash.
 
-* _2018-present_ Automation Engineer at [InfoSum][is]
+* _2021-present_ DevOps Engineer II at [Datto][dt]
+* _2018-2021_ Automation Engineer at [InfoSum][is]
 * _2017-2018_ IT Consultant at [General Bioinformatics][gb]
 * _2013-2017_ Operations Engineer at [DataSift][ds]
 * _2011-2015_ Studied *Open Source Computing* at [Aberystwyth University][au]
@@ -55,6 +56,7 @@ I occasionally write about programming, package management, and D&D.
 [ds]: http://datasift.com/
 [gb]: https://www.generalbioinformatics.com/
 [is]: https://www.infosum.com/
+[dt]: https://www.datto.com/
 
 [github]: https://github.com/borntyping/
 [github-sandbox]: https://github.com/borntyping-sandbox/
