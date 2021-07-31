@@ -26,6 +26,7 @@ Content marked with a † contains content that may be distressing, beyond that 
 - _Glasshouse_, Charlie Stross
 - _Good Omens_, Terry Pratchett
 - _His Majesty's Dragon_ (Temeraire, #1), Naomi Novik
+- _Prador Moon_ (Polity #1), Neal Asher
 - _Redshirts_, John Scalzi
 - _Revenger_ (Revenger #1), Alastair Reynolds
 - _Snow Crash_, Neal Stephenson
