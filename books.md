@@ -17,20 +17,23 @@ Content marked with a † contains content that may be distressing, beyond that 
 - _**Monstrous Regiment**_ (Discworld #31), Terry Pratchett
 - _**Gideon the Ninth**_ (The Locked Tomb #1), Tamsyn Muir
 - _**Voyage from Yesteryear**_, James P. Hogan
-- _**The Metamorphosis of Prime Intellect**_, Roger Williams ([availible online][prime intellect]) †
+- _**The Metamorphosis of Prime Intellect**_, Roger Williams ([online][prime intellect]) †
+- _**Consider Phlebas**_ (Culture #1), Iain M. Banks
 - _All Systems Red_ (The Murderbot Diaries #1), Martha Wells 
 - _Annihilation_ (The Southern Reach #1), Jeff VanderMeer
 - _A Memory Called Empire_, Arkady Martine
 - _Ancillary Justice_ (Imperial Radch #1) Ann Leckie
+- _Children of Time_ (Children of Time #1), Adrian Tchaikovsky
 - _Dragonoak: The Complete History of Kastelir_ (Dragonoak, #1) Sam Farren
 - _Glasshouse_, Charlie Stross
 - _Good Omens_, Terry Pratchett
-- _His Majesty's Dragon_ (Temeraire, #1), Naomi Novik
+- _His Majesty's Dragon_ (Temeraire #1), Naomi Novik
 - _Prador Moon_ (Polity #1), Neal Asher
 - _Redshirts_, John Scalzi
 - _Revenger_ (Revenger #1), Alastair Reynolds
 - _Snow Crash_, Neal Stephenson
 - _The Atrocity Archives_ (The Laundry Files #1), Charlie Stross
+- _The Collapsing Empire_ (The Interdependency #1), John Scalzi
 - _The Dragon's Path_ (The Dagger and the Coin #1), Daniel Abraham
 - _The Forever War_, Joe Haldeman
 - _The Reality Dysfunction_ (Night's Dawn #1), Peter F. Hamilton †
@@ -48,12 +51,13 @@ Content marked with a † contains content that may be distressing, beyond that 
 
 ## Young adult fiction
 
-- _**Mortal Engines**_, Philip Reeve (series)
-- _**The Edge Chronicles**_, Chris Riddell and Paul Stewart (series)
-- _**The Old Kingdom**_, Garth Nix (series)
-- _Artemis Fowl_, Eoin Colfer (series)
-- _Chaos Walking_, Patrick Ness (series) †
-- _Ptolemy's Gate_, Jonathan Stroud (series)
+- _**Mortal Engines**_ (series), Philip Reeve
+- _**The Edge Chronicles**_ (series), Chris Riddell and Paul Stewart
+- _**The Old Kingdom**_ (series), Garth Nix
+- _Artemis Fowl_ (series), Eoin Colfer
+- _Chaos Walking_ (series), Patrick Ness †
+- _Constellation Games_,  Leonard Richardson
+- _Ptolemy's Gate_ (series), Jonathan Stroud
 
 ## Comic books
 
