@@ -38,6 +38,7 @@ Content marked with a † contains content that may be distressing, beyond that 
 - _The Forever War_, Joe Haldeman
 - _The Reality Dysfunction_ (Night's Dawn #1), Peter F. Hamilton †
 - _To Be Taught, If Fortunate_, Becky Chambers
+- _To Sleep in a Sea of Stars_, Christopher Paolini
 - _Tuf Voyaging_, George RR Martin
 
 ## Online media
