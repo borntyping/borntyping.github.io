@@ -8,9 +8,7 @@ Books and media highlighted in bold are the best of this list.
 They appear in order of preference, while other entries on this list are sorted alphabetically.
 Only the first book in a series is listed, except for special cases, but the entire series usually carries the same recommendation.
 
-I've avoided including well known works in this list in the hopes of it remaining useful as a list of new books and media to recommend to friends.
-
-Content marked with a † contains content that may be distressing, beyond that which you might normally find in fantasy or science fiction.
+Content marked with a † contains content that may be distressing, beyond that which you might normally find in average fantasy or science fiction books.
 
 ## Books
 
@@ -24,6 +22,7 @@ Content marked with a † contains content that may be distressing, beyond that 
 - _A Memory Called Empire_, Arkady Martine
 - _Ancillary Justice_ (Imperial Radch #1) Ann Leckie
 - _Children of Time_ (Children of Time #1), Adrian Tchaikovsky
+- _Constellation Games_,  Leonard Richardson
 - _Dragonoak: The Complete History of Kastelir_ (Dragonoak, #1) Sam Farren
 - _Glasshouse_, Charlie Stross
 - _Good Omens_, Terry Pratchett
@@ -41,7 +40,11 @@ Content marked with a † contains content that may be distressing, beyond that 
 - _To Sleep in a Sea of Stars_, Christopher Paolini
 - _Tuf Voyaging_, George RR Martin
 
-## Online media
+## Other media
+
+### Online fiction
+
+Not all fiction fits into a neat category, but these hard-to-categorise entries are some of my very favorite stories.
 
 - _**17776**_, Jon Bois ([mixed media][17776])
 - _**Shlock Mercenary**_, Howard Taylor ([webcomic][schlock mercenary])
@@ -50,33 +53,49 @@ Content marked with a † contains content that may be distressing, beyond that 
 - _Mister Vimes'd Go Spare!_, Lunik ([fanfiction][mr vimes'd go spare])
 - _The Order of the Stick_, Rich Burlew ([webcomic][order of the stick])
 
-## Young adult fiction
+### Young adult fiction
+
+The book series that I grew up on. They've all aged very well.
 
 - _**Mortal Engines**_ (series), Philip Reeve
 - _**The Edge Chronicles**_ (series), Chris Riddell and Paul Stewart
 - _**The Old Kingdom**_ (series), Garth Nix
 - _Artemis Fowl_ (series), Eoin Colfer
 - _Chaos Walking_ (series), Patrick Ness †
-- _Constellation Games_,  Leonard Richardson
 - _Ptolemy's Gate_ (series), Jonathan Stroud
 
-## Comic books
+### Comic books
+
+The comic books I grew up from. Some of them have not aged well.
 
 - _**Scott Pilgrim**_, Bryan Lee O'Malley
 - _**Transmetropolitan**_, Warren Ellis
 - _**Global Frequency**_, Warren Ellis
+- _All-Star Superman_, Grant Morrison
 - _Preacher_, Garth Ennis †
-- _The Boys_,  Garth Ennis
 - _R.E.D._, Warren Ellis
 - _Superman: Red Son_, Mark Millar
-- _All-Star Superman_, Grant Morrison
 - _Switchblade Honey_, Warren Ellis
+- _The Boys_,  Garth Ennis
 - _WE3_, Grant Morrison
 
-## Films
+### Films
 
-- _**Speed Racer**_, 2008
-- _**Knives Out**_, 2019
+Not the films I like, but the films I _love_.
+
+- _**Speed Racer**_ (2008), The Wachowski Sisters
+- _**Knives Out**_ (2019), Rian Johnson
+
+### Games
+
+A very short list of the games I love for their stories, rather than everything I've enjoyed playing.
+
+- _**Death Stranding**_ (2019), Hideo Kojima / Kojima Productions
+- _Divinity: Original Sin 2_ (2017), Larian Studios
+- _Dishonoured_ (2012), Arkane Studios
+- _Firewatch_ (2016), Campo Santo
+- _NieR:Automata_ (2017),  Yoko Taro / PlatinumGames
+- _The Talos Principle_ (2014), Croteam
 
 [methods of rationality]: http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality
 [mr vimes'd go spare]: http://archiveofourown.org/works/244534
