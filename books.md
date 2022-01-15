@@ -22,7 +22,9 @@ Content marked with a † contains content that may be distressing, beyond that 
 - _A Memory Called Empire_, Arkady Martine
 - _Ancillary Justice_ (Imperial Radch #1) Ann Leckie
 - _Children of Time_ (Children of Time #1), Adrian Tchaikovsky
+- _Cinderella Is Dead_, Kalynn Bayron
 - _Constellation Games_,  Leonard Richardson
+- _Crier's War_, Nina Varela
 - _Dragonoak: The Complete History of Kastelir_ (Dragonoak, #1) Sam Farren
 - _Glasshouse_, Charlie Stross
 - _Good Omens_, Terry Pratchett
@@ -31,6 +33,7 @@ Content marked with a † contains content that may be distressing, beyond that 
 - _Redshirts_, John Scalzi
 - _Revenger_ (Revenger #1), Alastair Reynolds
 - _Snow Crash_, Neal Stephenson
+- _Sweet & Bitter Magic_, Adrienne Tooley
 - _The Atrocity Archives_ (The Laundry Files #1), Charlie Stross
 - _The Collapsing Empire_ (The Interdependency #1), John Scalzi
 - _The Dragon's Path_ (The Dagger and the Coin #1), Daniel Abraham
