@@ -19,7 +19,7 @@ Content marked with a † contains content that may be distressing, beyond that 
 - _**Consider Phlebas**_ (Culture #1), Iain M. Banks
 - _All Systems Red_ (The Murderbot Diaries #1), Martha Wells 
 - _Annihilation_ (The Southern Reach #1), Jeff VanderMeer
-- _A Memory Called Empire_, Arkady Martine
+- _A Memory Called Empire_ (Teixcalaan #1), Arkady Martine
 - _Ancillary Justice_ (Imperial Radch #1) Ann Leckie
 - _Children of Time_ (Children of Time #1), Adrian Tchaikovsky
 - _Cinderella Is Dead_, Kalynn Bayron
