@@ -8,40 +8,41 @@ Books and media highlighted in bold are the best of this list.
 They appear in order of preference, while other entries on this list are sorted alphabetically.
 Only the first book in a series is listed, except for special cases, but the entire series usually carries the same recommendation.
 
-Content marked with a † contains content that may be distressing, beyond that which you might normally find in average fantasy or science fiction books.
+Content marked with a ◊ contains content that may be distressing, beyond that which you might normally find in average fantasy or science fiction books.
 
 ## Books
 
-- _**Monstrous Regiment**_ (Discworld #31), Terry Pratchett
-- _**Gideon the Ninth**_ (The Locked Tomb #1), Tamsyn Muir
+- _**Monstrous Regiment**_ (Discworld #31), Terry Pratchett ‡
+- _**Gideon the Ninth**_ (The Locked Tomb #1), Tamsyn Muir ‡
 - _**Voyage from Yesteryear**_, James P. Hogan
-- _**The Metamorphosis of Prime Intellect**_, Roger Williams ([online][prime intellect]) †
+- _**The Metamorphosis of Prime Intellect**_, Roger Williams ([online][prime intellect]) ◊
 - _**Consider Phlebas**_ (Culture #1), Iain M. Banks
-- _All Systems Red_ (The Murderbot Diaries #1), Martha Wells 
+- _All Systems Red_ (The Murderbot Diaries #1), Martha Wells
 - _Annihilation_ (The Southern Reach #1), Jeff VanderMeer
-- _A Memory Called Empire_ (Teixcalaan #1), Arkady Martine
+- _A Memory Called Empire_ (Teixcalaan #1), Arkady Martine ‡
 - _Ancillary Justice_ (Imperial Radch #1) Ann Leckie
 - _Children of Time_ (Children of Time #1), Adrian Tchaikovsky
-- _Cinderella Is Dead_, Kalynn Bayron
+- _Cinderella Is Dead_, Kalynn Bayron ‡
 - _Constellation Games_,  Leonard Richardson
-- _Crier's War_, Nina Varela
-- _Dragonoak: The Complete History of Kastelir_ (Dragonoak, #1) Sam Farren
+- _Crier's War_ (Crier's War #1), Nina Varela ‡
+- _Dragonoak: The Complete History of Kastelir_ (Dragonoak, #1) Sam Farren ‡
 - _Glasshouse_, Charlie Stross
-- _Good Omens_, Terry Pratchett
+- _Good Omens_, Terry Pratchett & Neil Gaiman
 - _His Majesty's Dragon_ (Temeraire #1), Naomi Novik
 - _Prador Moon_ (Polity #1), Neal Asher
 - _Redshirts_, John Scalzi
 - _Revenger_ (Revenger #1), Alastair Reynolds
 - _Snow Crash_, Neal Stephenson
-- _Sweet & Bitter Magic_, Adrienne Tooley
+- _Sweet & Bitter Magic_, Adrienne Tooley ‡
 - _The Atrocity Archives_ (The Laundry Files #1), Charlie Stross
 - _The Collapsing Empire_ (The Interdependency #1), John Scalzi
 - _The Dragon's Path_ (The Dagger and the Coin #1), Daniel Abraham
 - _The Forever War_, Joe Haldeman
-- _The Reality Dysfunction_ (Night's Dawn #1), Peter F. Hamilton †
-- _To Be Taught, If Fortunate_, Becky Chambers
+- _The Reality Dysfunction_ (Night's Dawn #1), Peter F. Hamilton ◊
+- _To Be Taught, If Fortunate_, Becky Chambers ‡
 - _To Sleep in a Sea of Stars_, Christopher Paolini
 - _Tuf Voyaging_, George RR Martin
+- _Winterglass_ (Her Pitiless Command #1), Benjanun Sriduangkaew ‡
 
 ## Other media
 
@@ -64,7 +65,7 @@ The book series that I grew up on. They've all aged very well.
 - _**The Edge Chronicles**_ (series), Chris Riddell and Paul Stewart
 - _**The Old Kingdom**_ (series), Garth Nix
 - _Artemis Fowl_ (series), Eoin Colfer
-- _Chaos Walking_ (series), Patrick Ness †
+- _Chaos Walking_ (series), Patrick Ness ◊
 - _Ptolemy's Gate_ (series), Jonathan Stroud
 
 ### Comic books
@@ -75,7 +76,7 @@ The comic books I grew up from. Some of them have not aged well.
 - _**Transmetropolitan**_, Warren Ellis
 - _**Global Frequency**_, Warren Ellis
 - _All-Star Superman_, Grant Morrison
-- _Preacher_, Garth Ennis †
+- _Preacher_, Garth Ennis ◊
 - _R.E.D._, Warren Ellis
 - _Superman: Red Son_, Mark Millar
 - _Switchblade Honey_, Warren Ellis
