@@ -29,6 +29,7 @@ Content marked with a ◊ contains content that may be distressing, beyond that 
 - _Glasshouse_, Charlie Stross
 - _Good Omens_, Terry Pratchett & Neil Gaiman
 - _His Majesty's Dragon_ (Temeraire #1), Naomi Novik
+- _Into the Storm_ (Destroyermen #1), Taylor Anderson
 - _Prador Moon_ (Polity #1), Neal Asher
 - _Redshirts_, John Scalzi
 - _Revenger_ (Revenger #1), Alastair Reynolds
