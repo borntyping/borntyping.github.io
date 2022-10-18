@@ -31,28 +31,27 @@ Most of the useful projects are small Python libraries or command line applicati
 
 You can find me at [@borntyping][github] on GitHub and at [@borntyping][gitlab] on GitLab.
 
-## Pages
+## Personal life
 
-<ul class="related-posts">
-{% for node in site.pages %}
-{% if node.layout == "page" && node.title != null %}
-  <li><a href="{{ node.url }}">{{ node.title }}</a></li>
-{% endif %}
-{% endfor %}
-</ul>
+I also use this site to publish a list of [books I recommend][books], containing some of my favourite works of fiction.
 
 ## Posts
 
-<ul class="related-posts">
-{% for post in site.posts %}
-  <li>
-    <a href="{{ post.url }}">
-      {{ post.title }}
-      <small>{{ post.category }}, {{ post.date | date_to_string }}</small>
-    </a>
-  </li>
-{% endfor %}
-</ul>
+<nav>
+  {% for category in site.categories %}
+    <h3>{{ category[0] }}</h3>
+    <ul>
+      {% for post in category[1] %}
+        <li>
+          <a href="{{ post.url }}">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endfor %}
+</nav>
 
 [au]: http://www.aber.ac.uk/en/
 [datasift]: http://datasift.com/
@@ -68,4 +67,5 @@ You can find me at [@borntyping][github] on GitHub and at [@borntyping][gitlab] 
 [twitter]: https://twitter.com/borntyping
 [linkedin]: https://www.linkedin.com/in/borntyping/
 
-[open-source]: {{ site.baseurl }}/open-source/
+[books]: {% link books.md %}
+[open-source]: {% link open-source.md %}
