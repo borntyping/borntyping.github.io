@@ -38,7 +38,8 @@ I also use this site to publish a list of [books I recommend][books], containing
 ## Posts
 
 <nav>
-  {% for category in [site.categories["Development"], site.categories["Open Source"], site.categories["Tabletop Games"], site.categories["Fiction"]] %}
+  {% assign categories = [site.categories["Development"], site.categories["Open Source"], site.categories["Tabletop Games"], site.categories["Fiction"]] %}
+  {% for category in categories %}
     <h3>{{ category[0] }}</h3>
     <ul class="related-posts">
       {% for post in category[1] %}
