@@ -38,7 +38,7 @@ I also use this site to publish a list of [books I recommend][books], containing
 ## Posts
 
 <ul class="related-posts">
-  {% for post in site.categories %}
+  {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">
         {{ post.title }}
