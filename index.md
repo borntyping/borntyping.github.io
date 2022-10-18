@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Index
 ---
 
 Hi! I'm Sam Clements. I'm currently working as a Production Engineer at [Kaluza][kaluza].
