@@ -37,21 +37,16 @@ I also use this site to publish a list of [books I recommend][books], containing
 
 ## Posts
 
-<nav>
-  {% for category in site.categories|reverse %}
-    <h3>{{ category[0] }}</h3>
-    <ul class="related-posts">
-      {% for post in category[1] %}
-        <li>
-          <a href="{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </li>
-      {% endfor %}
-    </ul>
+<ul class="related-posts">
+  {% for post in category[1] %}
+    <li>
+      <a href="{{ post.url }}">
+        {{ post.title }}
+        <small>{{ post.category }}, {{ post.date | date_to_string }}</small>
+      </a>
+    </li>
   {% endfor %}
-</nav>
+</ul>
 
 [au]: http://www.aber.ac.uk/en/
 [datasift]: http://datasift.com/
