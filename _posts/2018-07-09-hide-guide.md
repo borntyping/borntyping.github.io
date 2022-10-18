@@ -1,6 +1,6 @@
 ---
 title: Hiding in D&D
-category: Tabletop games
+category: Tabletop Games
 layout: post
 ---
 
