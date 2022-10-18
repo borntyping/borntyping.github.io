@@ -2,29 +2,28 @@
 layout: page
 ---
 
-I am Sam Clements - a programmer, operator, and open-sourcerer.
+Hi! I'm Sam Clements. I'm currently working as a Production Engineer at [Kaluza][kaluza].
 
-You can contact me by email at [sam@borntyping.co.uk][email] or on Twitter at [@borntyping][twitter].
+You can contact me by email at [sam@borntyping.co.uk][email].
 
 ## Professional work
 
-I work on "DevOps" projects, writing code to automate data and software release processes.
-I usually build applications in Python, but have also written and published code using Rust, Ruby and Bash.
+I'm a a software engineer with a career of working across the spectrum of Operations, DevOps, and SRE roles. I'm most effective when working on release pipelines, but have broad experience across projects that have included REST APIs, automated test suites for web applications and APIs, dependency and release management services, and large infrastructure-as-code deployments. I'm an expert Python programmer, and pick up languages like PHP, Rust, Java, and Ruby as and when I need to.
 
-* _2021-present_ DevOps Engineer II at [Datto][dt]
-* _2018-2021_ Automation Engineer at [InfoSum][is]
-* _2017-2018_ IT Consultant at [General Bioinformatics][gb]
-* _2013-2017_ Operations Engineer at [DataSift][ds]
+* _2022-present_ DevOps Engineer II at [Kaluza][kaluza]
+* _2021-2022_ Senior DevOps Engineer at [Datto][datto]
+* _2018-2021_ Automation Engineer at [InfoSum][infosum]
+* _2017-2018_ IT Consultant at [General Bioinformatics][general-bioinformatics]
+* _2013-2017_ Operations Engineer at [DataSift][datasift]
 * _2011-2015_ Studied *Open Source Computing* at [Aberystwyth University][au]
 
 You can contact me as [Sam Clements][linkedin] on LinkedIn.
 
 ## Open source work
 
-I list some of my open source projects and contributions on the [Open source projects]({{ site.baseurl }}/open-source/) page on this site.
-I mostly build small tools and applications written in Python, usually to support development or systems adminstration workflows.
+I list some of my open source projects and contributions on the [Open source projects][open-source] page on this site. Most of the useful projects are small Python libraries or command line applications that aim to "do one thing well".
 
-My projects are published under [@borntyping][github] on GitHub and under [@borntyping][gitlab] on GitLab.
+You can find me at [@borntyping][github] on GitHub and at [@borntyping][gitlab] on GitLab.
 
 ## Pages
 
@@ -52,11 +51,11 @@ I occasionally write about programming, package management, and D&D.
 </ul>
 
 [au]: http://www.aber.ac.uk/en/
-[dm]: https://en.wikipedia.org/wiki/Dungeon_Master
-[ds]: http://datasift.com/
-[gb]: https://www.generalbioinformatics.com/
-[is]: https://www.infosum.com/
-[dt]: https://www.datto.com/
+[datasift]: http://datasift.com/
+[general-bioinformatics]: https://www.generalbioinformatics.com/
+[infosum]: https://www.infosum.com/
+[datto]: https://www.datto.com/
+[kaluza]: https://www.kaluza.com/
 
 [github]: https://github.com/borntyping/
 [github-sandbox]: https://github.com/borntyping-sandbox/
@@ -64,3 +63,5 @@ I occasionally write about programming, package management, and D&D.
 [email]: mailto:sam@borntyping.co.uk
 [twitter]: https://twitter.com/borntyping
 [linkedin]: https://www.linkedin.com/in/borntyping/
+
+[open-source]: {{ site.baseurl }}/open-source/
