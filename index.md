@@ -38,10 +38,10 @@ I also use this site to publish a list of [books I recommend][books], containing
 ## Posts
 
 <nav>
-  {% for category in src_ordered_categories %}
-    <h3>{{ site.categories[category][0] }}</h3>
+  {% for category in site.categories|reverse %}
+    <h3>{{ category[0] }}</h3>
     <ul class="related-posts">
-      {% for post in site.categories[category][1] %}
+      {% for post in category[1] %}
         <li>
           <a href="{{ post.url }}">
             {{ post.title }}
