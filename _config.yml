@@ -9,7 +9,7 @@ author:
 tagline: "Sam Clements"
 
 # Build settings
-permalink: pretty
+permalink: /posts/:title/
 
 # Frontmatter defaults
 defaults:
