@@ -19,3 +19,10 @@ defaults:
       type: 'posts'
     values:
       layout: 'post'
+
+# Data
+src_ordered_categories:
+ - Development
+ - Open Source
+ - Tabletop Games
+ - Fiction
