@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Merging a subdirectory of a git repository, revisited
+category: Development
+layout: post
 ---
 
 My previous post on the topic used git's builtin `filter-branch` subcommand, which has been superseded by the [git-filter-repo](https://github.com/newren/git-filter-repo) project.

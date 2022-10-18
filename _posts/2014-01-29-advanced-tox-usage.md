@@ -1,7 +1,8 @@
 ---
-layout: post
 title: Advanced Tox usage
 summary: "This article explains the Tox configuration used by several of my Python projects, which both tests the module on multiple versions of python and runs testing-related tools for style guides, static code checking and coverage reports."
+category: Development
+layout: post
 ---
 
 This article explains the [Tox](http://tox.readthedocs.org/en/latest/) configuration used by several of my Python projects, which both tests the module on multiple versions of python and runs testing-related tools for style guides, static code checking and coverage reports.

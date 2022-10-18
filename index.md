@@ -8,7 +8,11 @@ You can contact me by email at [sam@borntyping.co.uk][email].
 
 ## Professional work
 
-I'm a a software engineer with a career of working across the spectrum of Operations, DevOps, and SRE roles. I'm most effective when working on release pipelines, but have broad experience across projects that have included REST APIs, automated test suites for web applications and APIs, dependency and release management services, and large infrastructure-as-code deployments. I'm an expert Python programmer, and pick up languages like PHP, Rust, Java, and Ruby as and when I need to.
+I'm a a software engineer with a career of working across the spectrum of Operations, DevOps, and SRE roles.
+
+I'm most effective when working on release pipelines, but have broad experience across projects that have included REST APIs, automated test suites for web applications and APIs, dependency and release management services, and large infrastructure-as-code deployments.
+
+I'm an expert Python programmer, and pick up languages like PHP, Rust, Java, and Ruby as and when I need to.
 
 * _2022-present_ DevOps Engineer II at [Kaluza][kaluza]
 * _2021-2022_ Senior DevOps Engineer at [Datto][datto]
@@ -21,7 +25,9 @@ You can contact me as [Sam Clements][linkedin] on LinkedIn.
 
 ## Open source work
 
-I list some of my open source projects and contributions on the [Open source projects][open-source] page on this site. Most of the useful projects are small Python libraries or command line applications that aim to "do one thing well".
+I list some of my open source projects and contributions on the [Open source projects][open-source] page on this site.
+
+Most of the useful projects are small Python libraries or command line applications that aim to "do one thing well".
 
 You can find me at [@borntyping][github] on GitHub and at [@borntyping][gitlab] on GitLab.
 
@@ -37,14 +43,12 @@ You can find me at [@borntyping][github] on GitHub and at [@borntyping][gitlab] 
 
 ## Posts
 
-I occasionally write about programming, package management, and D&D.
-
 <ul class="related-posts">
 {% for post in site.posts %}
   <li>
     <a href="{{ post.url }}">
       {{ post.title }}
-      <small>{{ post.date | date_to_string }}</small>
+      <small>{{ post.category }}, {{ post.date | date_to_string }}</small>
     </a>
   </li>
 {% endfor %}

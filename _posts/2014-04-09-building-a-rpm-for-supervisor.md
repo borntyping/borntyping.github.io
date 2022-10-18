@@ -1,7 +1,8 @@
 ---
-layout: post
 title: Building a RPM for Supervisor
 summary: "A post explaining how to build an RPM for Supervisor"
+category: Development
+layout: post
 ---
 
 Start with a skeleton specfile, which can be generated using `rpmdev-newspec`:

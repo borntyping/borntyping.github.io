@@ -1,6 +1,8 @@
 ---
 title: Tox and Travis CI
 summary: Using Tox and Travis side-by side
+category: Development
+layout: post
 ---
 
 Until recently, my approach to building python projects that used [Tox](http://testrun.org/tox/latest/) on [Travis CI](http://travis-ci.org/) was simply to have two separate configuration files, each duplicating the others settings.

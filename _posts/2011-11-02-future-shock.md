@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Future Shock
+category: Fiction
+layout: post
 ---
 
 "Wake up."

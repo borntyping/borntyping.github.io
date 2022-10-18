@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Merging a subdirectory of a git repository
+category: Development
+layout: post
 ---
 
 In the repository being merged:

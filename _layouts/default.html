@@ -1,49 +1,52 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
-  <head>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-    <title>
-      {% if page.title == "Home" %}
-        {{ site.title }} &middot; {{ site.tagline }}
-      {% else %}
-        {{ page.title }} &middot; {{ site.title }}
-      {% endif %}
-    </title>
-    <link rel="stylesheet" href="{{ site.baseurl }}/public/css/poole.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}/public/css/syntax.css">
-    <link rel="stylesheet" href="{{ site.baseurl }}/public/css/hyde.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700">
-    <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico">
-    <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
-  </head>
-  <body>
-    <div class="sidebar">
-      <div class="container sidebar-sticky">
-        <div class="sidebar-about">
-          <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-        </div>
 
-        <nav class="sidebar-nav sidebar-nav-pages">
-          {% for node in site.pages %}{% if node.title != null %}{% if node.layout == "page" %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}{% endif %}{% endfor %}
-        </nav>
-        
-        <nav class="sidebar-nav">
-          <span class="sidebar-nav-item">Social</span>
-          <a class="sidebar-nav-item" rel="me" href="http://twitter.com/borntyping">Twitter</a>
-          <a class="sidebar-nav-item" rel="me" href="http://github.com/borntyping/">GitHub</a>
-          <a class="sidebar-nav-item" rel="me" href="http://gitlab.com/borntyping/">GitLab</a>
-          <a class="sidebar-nav-item" rel="me" href="https://www.linkedin.com/in/borntyping/">LinkedIn</a>
-        </nav>
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  <title>
+    {% if page.title == "Home" %}
+    {{ site.title }} &middot; {{ site.tagline }}
+    {% else %}
+    {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+  </title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/poole.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/syntax.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/public/css/hyde.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700">
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
 
-        <!-- <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> -->
+<body>
+  <div class="sidebar">
+    <div class="container sidebar-sticky">
+      <div class="sidebar-about">
+        <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
       </div>
+
+      <nav class="sidebar-nav sidebar-nav-pages">
+        {% for node in site.pages %}{% if node.title != null %}{% if node.layout == "page" %}
+        <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title
+          }}</a>
+        {% endif %}{% endif %}{% endfor %}
+      </nav>
+
+      <nav class="sidebar-nav">
+        <span class="sidebar-nav-item">Social</span>
+        <a class="sidebar-nav-item" rel="me" href="http://twitter.com/borntyping">Twitter</a>
+        <a class="sidebar-nav-item" rel="me" href="http://github.com/borntyping/">GitHub</a>
+        <a class="sidebar-nav-item" rel="me" href="http://gitlab.com/borntyping/">GitLab</a>
+        <a class="sidebar-nav-item" rel="me" href="https://www.linkedin.com/in/borntyping/">LinkedIn</a>
+      </nav>
+
+      <!-- <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> -->
     </div>
-    <div class="content container">
-      {{ content }}
-    </div>
-  </body>
+  </div>
+  <div class="content container">
+    {{ content }}
+  </div>
+</body>
+
 </html>

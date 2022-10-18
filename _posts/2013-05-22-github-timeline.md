@@ -1,6 +1,8 @@
 ---
 title: Playing with the Github Timeline data
 summary: Finding accurate counts for GitHub contributions by language
+category: Development
+layout: post
 ---
 
 I came across ['The Open Source Report Card'](http://osrc.dfm.io/) today, which included some interesting results on [my report](http://osrc.dfm.io/borntyping). It claimed I'd contributed to repositories using `VimL` and `Go`, neither of which I could remember doing anything in relation to.

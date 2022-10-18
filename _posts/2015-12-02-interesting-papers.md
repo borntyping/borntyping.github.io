@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Interesting papers
+category: Development
+layout: post
 ---
 
 - **[Holistic Configuration Management at Facebook][fb]**

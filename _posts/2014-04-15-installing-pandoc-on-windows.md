@@ -1,7 +1,8 @@
 ---
-layout: post
 title: Installing Pandoc on Windows
 summary: How to install Pandoc on Windows
+category: Development
+layout: post
 ---
 
 Install [pandoc](http://johnmacfarlane.net/pandoc/) using the Windows installer from [here](http://code.google.com/p/pandoc/downloads/list). Install pandoc globally using this command (using the path to the version of pandoc you downloaded):

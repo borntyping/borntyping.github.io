@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Backups are important
+category: Development
+layout: post
 ---
 
 Your laptop will die. Your hard drive will fail. You will lose your USB key. You'll have a power cut halfway through typing up your essay. Accidents happen, and making sure you don't lose work - especially assignments and essays - is important.

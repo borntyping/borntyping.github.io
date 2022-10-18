@@ -1,5 +1,7 @@
 ---
 title: ZSH startup time
+category: Development
+layout: post
 ---
 
 I've had issues with `zsh` starting up and running very slowly for a while. I'd assumed the problem simply lay with the number of plugins and other scripts run by `oh-my-zsh`, but a bit of research has found two solutions that have worked very well for me (your mileage may vary):

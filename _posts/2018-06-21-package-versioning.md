@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Package versioning
+category: Development
+layout: post
 ---
 
 This post descibes my approach to versioning packaged applications, using version numbers that look like this: `3.2.0-2109.12272`.

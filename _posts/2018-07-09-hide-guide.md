@@ -1,6 +1,7 @@
 ---
-layout: post
 title: Hiding in D&D
+category: Tabletop games
+layout: post
 ---
 
 I found the mechancies for hiding[^hiding] in D&D 5E a little confusing to understand, as the rules are scattered in a few places in the book.

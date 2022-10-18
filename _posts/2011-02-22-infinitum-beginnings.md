@@ -1,5 +1,7 @@
 ---
 title: "Infinitum: Beginnings"
+category: Fiction
+layout: post
 ---
 
 The solar system where we begun is Sol. Nine planets, an asteroid belt, lots of moons, and a single inhabitable planet - Earth. Earth, the third rock from the Sun: humanities home. It’s where we began… and we’re never going back. It’s a place we’ll never see again, lost to time and already but a memory for most. And what happened to Terra that we could never go back? Twenty-five years after the first Arc Ship, Sol’s one and only jumpnode closed. We were lucky. A few decades late, and humanity may have never reached the stars.
