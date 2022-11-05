@@ -35,6 +35,8 @@ You can find me at [@borntyping][github] on GitHub and at [@borntyping][gitlab] 
 
 I also use this site to publish a list of [books I recommend][books], containing some of my favourite works of fiction.
 
+You can find me at [@borntyping][cohost] on cohost.
+
 ## Posts
 
 <ul class="related-posts">
@@ -59,8 +61,8 @@ I also use this site to publish a list of [books I recommend][books], containing
 [github-sandbox]: https://github.com/borntyping-sandbox/
 [gitlab]: https://gitlab.com/borntyping/
 [email]: mailto:sam@borntyping.co.uk
-[twitter]: https://twitter.com/borntyping
 [linkedin]: https://www.linkedin.com/in/borntyping/
+[cohost]: https://cohost.org/borntyping
 
 [books]: {% link books.md %}
 [open-source]: {% link open-source.md %}
