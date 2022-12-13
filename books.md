@@ -29,6 +29,7 @@ Content marked with a ◊ contains content that may be distressing, beyond that 
 - _Glasshouse_, Charlie Stross
 - _Good Omens_, Terry Pratchett & Neil Gaiman
 - _His Majesty's Dragon_ (Temeraire #1), Naomi Novik
+- _Hunting Party_ (Serrano Legacy #1), Elizabeth Moon
 - _Into the Storm_ (Destroyermen #1), Taylor Anderson
 - _Prador Moon_ (Polity #1), Neal Asher
 - _Redshirts_, John Scalzi
@@ -46,7 +47,7 @@ Content marked with a ◊ contains content that may be distressing, beyond that 
 - _Tuf Voyaging_, George RR Martin
 - _Winterglass_ (Her Pitiless Command #1), Benjanun Sriduangkaew ‡
 
-## Other media
+## Other written fiction
 
 ### Online fiction
 
@@ -56,8 +57,8 @@ Not all fiction fits into a neat category, but these hard-to-categorise entries 
 - _**Shlock Mercenary**_, Howard Taylor ([webcomic][schlock mercenary])
 - _**Questionable Content**_, Jeph Jacques ([webcomic][questionable content])
 - _**The Wandering Inn**_, ([web serial][the wandering inn])
-- _Mister Vimes'd Go Spare!_, Lunik ([fanfiction][mr vimes'd go spare])
-- _The Order of the Stick_, Rich Burlew ([webcomic][order of the stick])
+- _**Mister Vimes'd Go Spare!**_, Lunik ([fanfiction][mr vimes'd go spare])
+- _**The Order of the Stick**_, Rich Burlew ([webcomic][order of the stick])
 
 ### Young adult fiction
 
@@ -72,7 +73,7 @@ The book series that I grew up on. They've all aged very well.
 
 ### Comic books
 
-The comic books I grew up from. Some of them have not aged well.
+The comic books I grew up with. Some of them have not aged well.
 
 - _**Scott Pilgrim**_, Bryan Lee O'Malley
 - _**Transmetropolitan**_, Warren Ellis
@@ -85,6 +86,20 @@ The comic books I grew up from. Some of them have not aged well.
 - _The Boys_,  Garth Ennis
 - _WE3_, Grant Morrison
 
+## Interactive and visual fiction
+
+### Games
+
+A very short list of the games I love for their stories, rather than everything I've enjoyed playing.
+
+- _**Death Stranding**_ (2019), Hideo Kojima / Kojima Productions
+- _Dwarf Fortress_ (2006), Tarn Adams, Zach Adams
+- _Divinity: Original Sin 2_ (2017), Larian Studios
+- _Dishonoured_ (2012), Arkane Studios
+- _Firewatch_ (2016), Campo Santo
+- _NieR:Automata_ (2017),  Yoko Taro / PlatinumGames
+- _The Talos Principle_ (2014), Croteam
+
 ### Films
 
 Not the films I like, but the films I _love_.
@@ -92,16 +107,10 @@ Not the films I like, but the films I _love_.
 - _**Speed Racer**_ (2008), The Wachowski Sisters
 - _**Knives Out**_ (2019), Rian Johnson
 
-### Games
+### Television
 
-A very short list of the games I love for their stories, rather than everything I've enjoyed playing.
-
-- _**Death Stranding**_ (2019), Hideo Kojima / Kojima Productions
-- _Divinity: Original Sin 2_ (2017), Larian Studios
-- _Dishonoured_ (2012), Arkane Studios
-- _Firewatch_ (2016), Campo Santo
-- _NieR:Automata_ (2017),  Yoko Taro / PlatinumGames
-- _The Talos Principle_ (2014), Croteam
+- _Love Death + Robots_ (2019)
+- _The Umbrella Academy_ (2019)
 
 [methods of rationality]: http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality
 [mr vimes'd go spare]: http://archiveofourown.org/works/244534
