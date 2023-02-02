@@ -10,7 +10,6 @@ These are the Open Source projects that I have written and maintain. The majorit
 
 ### Command line tools
 
-* [git-river](https://github.com/datto/git-river) - github/gitlab forking workflow automation
 * [jsonlog](https://github.com/borntyping/jsonlog) - parse and format JSON logfiles
 * [watch-fs](https://github.com/borntyping/watch-fs) - run commands when files change
 * [ssh-run](https://github.com/borntyping/ssh-run) - run commands remotely using your local files
@@ -35,11 +34,16 @@ These are the Open Source projects that I have written and maintain. The majorit
 
 ### Other projects
 
+* [switchbox](https://github.com/borntyping/switchbox) - personal git workflow automation
 * [deployment](https://github.com/borntyping/deployment) - personal dotfiles repo in the form of an Ansible repository
 
 ## Unmaintained projects
 
 These are incomplete or unmaintained projects. Most of them are either deprecated by a better project, or were written a long time ago. I no longer maintain any of these projects, but welcome questions about them.
+
+### 2022
+
+* [git-river](https://github.com/datto/git-river) - github/gitlab forking workflow automation
 
 ### 2018
 
