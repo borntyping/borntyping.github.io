@@ -10,16 +10,16 @@ You can contact me by email at [sam@borntyping.co.uk][email].
 
 I'm a a software engineer with a career of working across the spectrum of Operations, DevOps, and SRE roles.
 
-I'm most effective when working on release pipelines, but have broad experience across projects that have included REST APIs, automated test suites for web applications and APIs, dependency and release management services, and large infrastructure-as-code deployments.
+I'm most effective when working on developer tools, and have broad experience across projects that have included complex CI/CD pipelines, web applications, REST APIs, dependency and release management services, infrastructure-as-code deployments, and automated test suites.
 
 I'm an expert Python programmer, and pick up languages like PHP, Rust, Java, and Ruby as and when I need to.
 
-* _2022-present_ DevOps Engineer II at [Kaluza][kaluza]
-* _2021-2022_ Senior DevOps Engineer at [Datto][datto]
-* _2018-2021_ Automation Engineer at [InfoSum][infosum]
-* _2017-2018_ IT Consultant at [General Bioinformatics][general-bioinformatics]
-* _2013-2017_ Operations Engineer at [DataSift][datasift]
-* _2011-2015_ Studied *Open Source Computing* at [Aberystwyth University][au]
+* DevOps Engineer II at [Kaluza][kaluza] (2022–present)
+* Senior DevOps Engineer at [Datto][datto] (2021–2022)
+* Automation Engineer at [InfoSum][infosum] (2018–2021)
+* IT Consultant at [General Bioinformatics][general-bioinformatics] (2017–2018)
+* Operations Engineer at [DataSift][datasift] (2013–2017)
+* Studied *Open Source Computing* at [Aberystwyth University][au] (2011–2015)
 
 You can contact me as [Sam Clements][linkedin] on LinkedIn.
 
@@ -28,6 +28,13 @@ You can contact me as [Sam Clements][linkedin] on LinkedIn.
 I list some of my open source projects and contributions on the [Open source projects][open-source] page on this site.
 
 Most of the useful projects are small Python libraries or command line applications that aim to "do one thing well".
+
+Some highlights:
+
+- [FFXIV Daily Quest Tracker](ffxiv-daily-quest-tracker) — a tiny web app using [Alpine.js](https://alpinejs.dev/) (2023)
+- [`switchbox`][switchbox] — automation of some personal git workflows (2022)
+- [`simple_logger`][simple_logger] - an easy to configure Rust logger (2015–ongoing)
+- [`colorlog`][simple_logger] - a popular Python logging formatter (2012–ongoing)
 
 You can find me at [@borntyping][github] on GitHub and at [@borntyping][gitlab] on GitLab.
 
@@ -63,6 +70,10 @@ You can find me at [@borntyping][cohost] on cohost.
 [email]: mailto:sam@borntyping.co.uk
 [linkedin]: https://www.linkedin.com/in/borntyping/
 [cohost]: https://cohost.org/borntyping
+
+[ffxiv-daily-quest-tracker]: https://borntyping.co.uk/ffxiv-daily-quest-tracker/
+[switchbox]: https://github.com/borntyping/switchbox
+[simple_logger]: https://github.com/borntyping/rust-simple_logger
 
 [books]: {% link books.md %}
 [open-source]: {% link open-source.md %}

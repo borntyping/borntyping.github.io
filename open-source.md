@@ -29,7 +29,7 @@ These are the Open Source projects that I have written and maintain. The majorit
 
 ### Web applications
 
-* [tz](https://github.com/borntyping/tz) - tiny timezone dashboard that I fork for each team I work with
+* [FFXIV Daily Quest Tracker](https://borntyping.co.uk/ffxiv-daily-quest-tracker/) - calculate how long a series of daily quests will take to complete, built with [Alpine.js](https://alpinejs.dev/)
 * [mashinky-calculator](https://github.com/borntyping/mashinky-calculator) - parses files from [Mashinky](https://mashinky.com/) and calculates optimal trains
 
 ### Other projects
@@ -39,11 +39,15 @@ These are the Open Source projects that I have written and maintain. The majorit
 
 ## Unmaintained projects
 
-These are incomplete or unmaintained projects. Most of them are either deprecated by a better project, or were written a long time ago. I no longer maintain any of these projects, but welcome questions about them.
+These are unmaintained (or incomplete) projects. Most of these I simply stopped using and don't have any reason to update. I no longer maintain any of these projects, but welcome questions about them and encourage you to fork them if you find them useful.
 
 ### 2022
 
 * [git-river](https://github.com/datto/git-river) - github/gitlab forking workflow automation
+
+### 2021
+
+* [tz](https://github.com/borntyping/tz) - tiny timezone dashboard that I fork for each team I work with
 
 ### 2018
 
