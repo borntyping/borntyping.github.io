@@ -30,7 +30,7 @@ I list some of my open source projects and contributions on the [Open source pro
 
 Most of the useful projects are small Python libraries or command line applications that aim to "do one thing well". Some highlights:
 
-- [FFXIV Daily Quest Tracker](ffxiv-daily-quest-tracker) — a tiny web app using [Alpine.js](https://alpinejs.dev/) (2023)
+- [FFXIV Daily Quest Tracker][ffxiv-daily-quest-tracker] — a tiny web app using [Alpine.js](https://alpinejs.dev/) (2023)
 - [switchbox][switchbox] — automation of some personal git workflows (2022)
 - [simple_logger][simple_logger] - an easy to configure Rust logger (2015–ongoing)
 - [colorlog][simple_logger] - a popular Python logging formatter (2012–ongoing)
