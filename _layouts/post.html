@@ -11,7 +11,7 @@ layout: default
 <div class="related">
   <h2>Recent Posts</h2>
   <ul class="related-posts">
-    {% for post in site.categories[page.categories] limit:5 %}
+    {% for post in site.categories[page.category] limit:5 %}
     <li>
       <a href="{{ post.url }}">
         {{ post.title }}

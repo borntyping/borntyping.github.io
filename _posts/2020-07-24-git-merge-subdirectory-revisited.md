@@ -1,5 +1,6 @@
 ---
 title: Merging a subdirectory of a git repository, revisited
+short: Merging a git subdirectory
 category: Development
 layout: post
 ---

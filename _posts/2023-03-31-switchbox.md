@@ -1,5 +1,6 @@
 ---
 title: Cleaning up merged git branches
+short: Cleaning up git branches
 category: Development
 layout: post
 date: "2023-03-31"

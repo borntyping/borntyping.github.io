@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Book recommendations
+theme: theme-base-0c
 permalink: /books/
 ---
 

@@ -17,13 +17,12 @@
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/hyde.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700">
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
-  
   <link rel="me" href="https://hachyderm.io/@borntyping" />
   <link rel="me" href="https://mstdn.social/@borntyping" />
   <link rel="me" href="https://mastodon.social/@borntyping" />
 </head>
 
-<body>
+<body class="{{ page.theme | default: 'theme-base-0e' }}">
   <div class="sidebar">
     <div class="container sidebar-sticky">
       <div class="sidebar-about">
@@ -31,16 +30,23 @@
       </div>
 
       <nav class="sidebar-nav sidebar-nav-pages">
-        {% for node in site.pages %}{% if node.title != null %}{% if node.layout == "page" %}
-        <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title
-          }}</a>
-        {% endif %}{% endif %}{% endfor %}
+        {% for node in site.pages %}
+        {% if node.title != null and node.layout == "page" %}
+        <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+        {% endif %}
+        {% endfor %}
+      </nav>
+
+      <nav class="sidebar-nav sidebar-nav-pages">
+        <span class="sidebar-nav-item">Recent posts</span>
+        {% for node in site.posts limit:2 %}
+        <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.short | default: node.title }}</a>
+        {% endfor %}
       </nav>
 
       <nav class="sidebar-nav">
         <span class="sidebar-nav-item">Social</span>
         <a class="sidebar-nav-item" rel="me" href="https://hachyderm.io/@borntyping">Mastodon</a>
-        <a class="sidebar-nav-item" rel="me" href="https://twitter.com/borntyping">Twitter</a>
         <a class="sidebar-nav-item" rel="me" href="https://github.com/borntyping/">GitHub</a>
         <a class="sidebar-nav-item" rel="me" href="https://gitlab.com/borntyping/">GitLab</a>
         <a class="sidebar-nav-item" rel="me" href="https://www.linkedin.com/in/borntyping/">LinkedIn</a>

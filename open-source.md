@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Open Source projects
+theme: theme-base-0b
 permalink: /open-source/
 ---
 
