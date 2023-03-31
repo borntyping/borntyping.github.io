@@ -7,7 +7,7 @@ date: "2023-03-31"
 
 Over the last few years (and jobs) I've collected a number of scripts and processes for working with git and centralised forges like GitHub and GitLab. [switchbox] is my latest attempt to collect the bits of that automation I'm currently using, and mostly does some fiddly work to discover branches that have been merged, rebased, or squashed into the main branch of a git repository.
 
-The most useful bit from my previous tools was the ability to clean up branches and references I wasn't using anymore. Teams at previous jobs had all enforced a standard way to apply merge requests — for instance, my team Datto enforced linear merge commits. My previous attempt at automating this cleanup, [git-river], handled standard merged but no other cases.
+The most useful bit from my previous tools was the ability to clean up branches and references I wasn't using anymore. Teams at previous jobs had all enforced a standard way to apply merge requests — for instance, my team Datto enforced linear merge commits. My previous attempt at automating this cleanup, [git-river], handled standard merge commits but no other cases.
 
 However, my current job doesn't yet enforce any standard repository configuration and repositories use a mix of rebasing, squashing, and merge commits. I wanted switchbox to handle any type of merge I could think of, so that I wouldn't need to implement this next time I encountered a project that used a different approach to merging changes.
 
