@@ -8,8 +8,8 @@ date: "2023-05-16"
 
 Recently I built two small microsites that I find helpful for playing Final Fantasy 14.
 
-* https://borntyping.co.uk/ffxiv-daily-quest-tracker/
-* https://borntyping.co.uk/ffxiv-signposts/
+* [borntyping.co.uk/ffxiv-daily-quest-tracker/](https://borntyping.co.uk/ffxiv-daily-quest-tracker/)
+* [borntyping.co.uk/ffxiv-signposts/](https://borntyping.co.uk/ffxiv-signposts/)
 
 While working on a [Backstage]/[React] codebase at [Kaluza] I wanted to take a look at what else the 2023 JavaScript ecosystem had to offer, and especially wanted to experience JavaScript development "from scratch" in a much smaller codebase.
 
