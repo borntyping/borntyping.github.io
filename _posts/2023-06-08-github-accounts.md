@@ -3,7 +3,7 @@ title: Why I have separate personal and work GitHub accounts
 short: Separate work GitHub account
 category: Development
 layout: post
-date: "2023-05-16"
+date: "2023-06-08"
 ---
 
 Permissions on a GitHub token are opt-in for an organisation, but you can't opt out of granting permissions for the account the token belongs to.
