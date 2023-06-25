@@ -15,6 +15,8 @@ While working on a [Backstage]/[React] codebase at [Kaluza] I wanted to take a l
 
 ## [ffxiv-daily-quest-tracker]
 
+![](/assets/2023-05-16-ffxiv-tools-daily-quest-tracker.png)
+
 The first tool I built was a calculator for a series of long quest chains in FFXIV that can only be progressed a small amount each day. I wanted to be able to work out how long each quest chain would take me to finish - being able to visualise my progress kept me a lot more engaged and encouraged me to finish them.
 
 I used [Alpine.js] for this, alongside [Bootstrap]. I was already pretty familiar with Bootstrap, and wanted to build something quite quickly so avoided learning a new CSS framework. [Alpine.js] seemed pretty similar to [htmx], a library I'd had some success with previously for a professional project. I didn't use it here as I wanted to be able to deploy this site to GitHub Pages and avoid the need for a server.
@@ -24,6 +26,8 @@ The JavaScript I wrote using Alpine.js was almost certainly not very idiomatic, 
 Alpine was very simple to use, and I didn't need to use any build step or dependency management at all, so the end result was very easy to deploy directly to GitHub Pages. The code for the site is ~4 small files (`index.html`, `index.css` for styles, `index.js` for code and `index.json` for data). I'd very happily use Alpine.js again for a website.
 
 ## [ffxiv-signposts]
+
+![](/assets/2023-05-16-ffxiv-tools-signposts.png)
 
 The second site was a list of links to other people's FFXIV sites that I either used or had been recommended. There's a wonderful ecosystem of helpful tools people have built for this game, even though there's not much support from the developers of the game for it (e.g. Destiny 2 provides a very full-featured API with access to information about most things in the game, which has been a great base for developers to build extensive and powerful interfaces to that data). 
 
