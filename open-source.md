@@ -30,7 +30,9 @@ These are the Open Source projects that I have written and maintain. The majorit
 
 ### Web applications
 
+* [FFXIV Timers](https://borntyping.co.uk/ffxiv-timers/) - a very simple app showing countdown timers for FFXIV resets, built with [Svelte](https://svelte.dev/).
 * [FFXIV Daily Quest Tracker](https://borntyping.co.uk/ffxiv-daily-quest-tracker/) - calculate how long a series of daily quests will take to complete, built with [Alpine.js](https://alpinejs.dev/)
+* [FFXIV Signposts](https://borntyping.co.uk/ffxiv-signposts/) - a collection of links to useful FFXIV sites and apps, built with [Vue.js](https://vuejs.org/).
 * [mashinky-calculator](https://github.com/borntyping/mashinky-calculator) - parses files from [Mashinky](https://mashinky.com/) and calculates optimal trains
 
 ### Other projects
