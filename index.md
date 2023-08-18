@@ -30,6 +30,7 @@ I list some of my open source projects and contributions on the [Open source pro
 
 Most of the useful projects are small Python libraries or command line applications that aim to "do one thing well". Some highlights:
 
+- [FFXIV Timers](ffxiv-timers) - a tiny web app using with [Svelte](https://svelte.dev/).
 - [FFXIV Signposts][ffxiv-signposts] — a tiny web app using [Vue.js](https://vuejs.org) (2023)
 - [FFXIV Daily Quest Tracker][ffxiv-daily-quest-tracker] — a tiny web app using [Alpine.js](https://alpinejs.dev/) (2023)
 - [switchbox][switchbox] — automation of some personal git workflows (2022)
@@ -72,6 +73,7 @@ You can find me at [@borntyping][cohost] on cohost.
 [linkedin]: https://www.linkedin.com/in/borntyping/
 [cohost]: https://cohost.org/borntyping
 
+[ffxiv-timers]: https://borntyping.co.uk/ffxiv-timers/
 [ffxiv-signposts]: https://borntyping.co.uk/ffxiv-signposts/
 [ffxiv-daily-quest-tracker]: https://borntyping.co.uk/ffxiv-daily-quest-tracker/
 [switchbox]: https://github.com/borntyping/switchbox
