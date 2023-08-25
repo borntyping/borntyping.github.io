@@ -57,18 +57,18 @@ Not all fiction fits into a neat category, but these hard-to-categorise entries 
 - _**17776**_, Jon Bois ([mixed media][17776])
 - _**Shlock Mercenary**_, Howard Taylor ([webcomic][schlock mercenary])
 - _**Questionable Content**_, Jeph Jacques ([webcomic][questionable content])
-- _**The Wandering Inn**_, ([web serial][the wandering inn])
 - _**Mister Vimes'd Go Spare!**_, Lunik ([fanfiction][mr vimes'd go spare])
-- _**The Order of the Stick**_, Rich Burlew ([webcomic][order of the stick])
+- _The Order of the Stick_, Rich Burlew ([webcomic][order of the stick])
+- _The Wandering Inn_, ([web serial][the wandering inn])
 
 ### Young adult fiction
 
-The book series that I grew up on. They've all aged very well.
+The book series that I grew up on. I think they aged well.
 
 - _**Mortal Engines**_ (series), Philip Reeve
 - _**The Edge Chronicles**_ (series), Chris Riddell and Paul Stewart
 - _**The Old Kingdom**_ (series), Garth Nix
-- _Artemis Fowl_ (series), Eoin Colfer
+- _**Artemis Fowl**_ (series), Eoin Colfer
 - _Chaos Walking_ (series), Patrick Ness ◊
 - _Ptolemy's Gate_ (series), Jonathan Stroud
 
@@ -106,7 +106,7 @@ A very short list of the games I love for their stories, rather than everything 
 Not the films I like, but the films I _love_.
 
 - _**Speed Racer**_ (2008), The Wachowski Sisters
-- _**Knives Out**_ (2019), Rian Johnson
+- _Knives Out_ (2019), Rian Johnson
 
 ### Television
 
