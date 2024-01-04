@@ -18,6 +18,7 @@ Content marked with a ◊ contains content that may be distressing, beyond that 
 - _**Voyage from Yesteryear**_, James P. Hogan
 - _**The Metamorphosis of Prime Intellect**_, Roger Williams ([online][prime intellect]) ◊
 - _**Consider Phlebas**_ (Culture #1), Iain M. Banks
+- _And Shall Machines Surrender_, (Machine Mandate #1) Benjanun Sriduangkaew ‡
 - _All Systems Red_ (The Murderbot Diaries #1), Martha Wells
 - _Annihilation_ (The Southern Reach #1), Jeff VanderMeer
 - _A Memory Called Empire_ (Teixcalaan #1), Arkady Martine ‡
