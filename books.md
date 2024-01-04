@@ -13,21 +13,21 @@ Content marked with a ◊ contains content that may be distressing, beyond that 
 
 ## Books
 
-- _**Monstrous Regiment**_ (Discworld #31), Terry Pratchett ‡
-- _**Gideon the Ninth**_ (The Locked Tomb #1), Tamsyn Muir ‡
+- _**Monstrous Regiment**_ (Discworld #31), Terry Pratchett <sup>‡</sup>
+- _**Gideon the Ninth**_ (The Locked Tomb #1), Tamsyn Muir <sup>‡</sup>
 - _**Voyage from Yesteryear**_, James P. Hogan
 - _**The Metamorphosis of Prime Intellect**_, Roger Williams ([online][prime intellect]) ◊
 - _**Consider Phlebas**_ (Culture #1), Iain M. Banks
-- _And Shall Machines Surrender_, (Machine Mandate #1) Benjanun Sriduangkaew ‡
+- _And Shall Machines Surrender_ (Machine Mandate #1), Benjanun Sriduangkaew <sup>‡</sup>
 - _All Systems Red_ (The Murderbot Diaries #1), Martha Wells
 - _Annihilation_ (The Southern Reach #1), Jeff VanderMeer
-- _A Memory Called Empire_ (Teixcalaan #1), Arkady Martine ‡
+- _A Memory Called Empire_ (Teixcalaan #1), Arkady Martine <sup>‡</sup>
 - _Ancillary Justice_ (Imperial Radch #1) Ann Leckie
 - _Children of Time_ (Children of Time #1), Adrian Tchaikovsky
-- _Cinderella Is Dead_, Kalynn Bayron ‡
+- _Cinderella Is Dead_, Kalynn Bayron <sup>‡</sup>
 - _Constellation Games_,  Leonard Richardson
-- _Crier's War_ (Crier's War #1), Nina Varela ‡
-- _Dragonoak: The Complete History of Kastelir_ (Dragonoak, #1) Sam Farren ‡
+- _Crier's War_ (Crier's War #1), Nina Varela <sup>‡</sup>
+- _Dragonoak: The Complete History of Kastelir_ (Dragonoak, #1) Sam Farren <sup>‡</sup>
 - _Glasshouse_, Charlie Stross
 - _Good Omens_, Terry Pratchett & Neil Gaiman
 - _His Majesty's Dragon_ (Temeraire #1), Naomi Novik
@@ -37,17 +37,17 @@ Content marked with a ◊ contains content that may be distressing, beyond that 
 - _Redshirts_, John Scalzi
 - _Revenger_ (Revenger #1), Alastair Reynolds
 - _Snow Crash_, Neal Stephenson
-- _Sweet & Bitter Magic_, Adrienne Tooley ‡
+- _Sweet & Bitter Magic_, Adrienne Tooley <sup>‡</sup>
 - _The Atrocity Archives_ (The Laundry Files #1), Charlie Stross
 - _The Collapsing Empire_ (The Interdependency #1), John Scalzi
 - _The Dragon's Path_ (The Dagger and the Coin #1), Daniel Abraham
 - _The Forever War_, Joe Haldeman
 - _The Reality Dysfunction_ (Night's Dawn #1), Peter F. Hamilton ◊
 - _This Quest is Broken!_ (This Trilogy is Broken #1), J. P. Valentine
-- _To Be Taught, If Fortunate_, Becky Chambers ‡
+- _To Be Taught, If Fortunate_, Becky Chambers <sup>‡</sup>
 - _To Sleep in a Sea of Stars_, Christopher Paolini
 - _Tuf Voyaging_, George RR Martin
-- _Winterglass_ (Her Pitiless Command #1), Benjanun Sriduangkaew ‡
+- _Winterglass_ (Her Pitiless Command #1), Benjanun Sriduangkaew <sup>‡</sup>
 
 ## Other written fiction
 
