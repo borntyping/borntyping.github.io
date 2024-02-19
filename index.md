@@ -30,16 +30,17 @@ You can find me at [@borntyping][github] on GitHub and at [@borntyping][gitlab] 
 
 I list some of my open source projects and contributions on the [Open source projects][open-source] page on this site.
 
-Most of the useful projects are small Python libraries or command line applications that aim to "do one thing well". Some highlights:
+Most of the useful projects are small Python libraries or applications that aim to "do one thing well". Some highlights:
 
-- [switchbox][switchbox] — automation of some personal git workflows (2022)
-- [simple_logger][simple_logger] - an easy to configure Rust logger (2015–ongoing)
-- [dice][dice] - a CLI and Python library for parsing and evaluating dice notation (2013)
-- [colorlog][simple_logger] - a popular Python logging formatter (2012–ongoing)
+- [Vancelle] — a personal media catalogue (2024)
+- [Switchbox][switchbox] — automation of some personal git workflows (2022)
+- [simple_logger][simple_logger] — an easy to configure Rust logger (2015–ongoing)
+- [dice][dice] — a CLI and Python library for parsing and evaluating dice notation (2013)
+- [colorlog][simple_logger] — a popular Python logging formatter (2012–ongoing)
 
 I've recently been working on some tiny web-apps for Final Fantasy 14:
 
-- [FFXIV Timers](ffxiv-timers) - a tiny web app using with [Svelte](https://svelte.dev/).
+- [FFXIV Timers][ffxiv-timers] — a tiny web app using with [Svelte](https://svelte.dev/).
 - [FFXIV Signposts][ffxiv-signposts] — a tiny web app using [Vue.js](https://vuejs.org) (2023)
 - [FFXIV Daily Quest Tracker][ffxiv-daily-quest-tracker] — a tiny web app using [Alpine.js](https://alpinejs.dev/) (2023)
 
@@ -82,6 +83,7 @@ You can find me at [@borntyping][cohost] on cohost.
 [switchbox]: https://github.com/borntyping/switchbox
 [simple_logger]: https://github.com/borntyping/rust-simple_logger
 [dice]: https://github.com/borntyping/python-dice
+[Vancelle]: https://github.com/borntyping/vancelle
 
 [books]: {% link books.md %}
 [open-source]: {% link open-source.md %}

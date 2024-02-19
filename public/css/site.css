@@ -1,0 +1,54 @@
+.theme-base-08 {
+  --theme-color: #ac4142;
+}
+
+.theme-base-09 {
+  --theme-color: #d28445;
+}
+
+.theme-base-0a {
+  --theme-color: #f4bf75;
+}
+
+.theme-base-0b {
+  --theme-color: #90a959;
+}
+
+.theme-base-0c {
+  --theme-color: #75b5aa;
+}
+
+.theme-base-0d {
+  --theme-color: #6a9fb5;
+}
+
+.theme-base-0e {
+  --theme-color: #aa759f;
+}
+
+.theme-base-0f {
+  --theme-color: #8f5536;
+}
+
+figure {
+  img {
+    border: 2px solid var(--theme-color);
+    margin-bottom: 0.25rem;
+  }
+
+  & figcaption {
+    text-align: center;
+    font-style: italic;
+    font-size: 0.8em;
+  }
+}
+
+sup {
+  vertical-align: super;
+  font-size: 0.5em;
+  line-height: 100%;
+}
+
+.post {
+  margin-bottom: 3em !important;
+}
