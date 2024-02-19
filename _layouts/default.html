@@ -40,7 +40,7 @@
 
       <nav class="sidebar-nav sidebar-nav-pages">
         <span class="sidebar-nav-item">Recent posts</span>
-        {% for node in site.posts limit:2 %}
+        {% for node in site.posts limit:4 %}
         <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.short | default: node.title }}</a>
         {% endfor %}
       </nav>

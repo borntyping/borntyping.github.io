@@ -5,9 +5,13 @@ theme: theme-base-0d
 
 Hi! I'm Sam Clements.
 
-You can contact me by email at [sam@borntyping.co.uk][email].
+You can find me on Mastodon at [@borntyping@hachyderm.io](https://hachyderm.io/@borntyping) or email me at  [sam@borntyping.co.uk](mailto:sam@borntyping.co.uk).
+
+I use this site to publish a list of [books I recommend]({% link books.md %}) and occasionally write [blog posts](#posts) about things I've been working on.
 
 ## Professional work
+
+You can find me at [Sam Clements][linkedin] on LinkedIn.
 
 I'm a software engineer with a history of developing internal tooling for engineering teams. I've worked in teams labeled "devops", "operations", "infrastructure", and "developer experience"; but always with the goal of making my peers more effective.
 
@@ -22,13 +26,11 @@ I'm an expert Python programmer, and pick up languages like JavaScript, TypeScri
 * Operations Engineer at [DataSift][datasift] (2013–2017)
 * Studied *Open Source Computing* at [Aberystwyth University][au] (2011–2015)
 
-You can contact me as [Sam Clements][linkedin] on LinkedIn.
-
 ## Open source work
 
 You can find me at [@borntyping][github] on GitHub and at [@borntyping][gitlab] on GitLab.
 
-I list some of my open source projects and contributions on the [Open source projects][open-source] page on this site.
+I list some of my open source projects and contributions on the [Open source projects]({% link open-source.md %}) page on this site.
 
 Most of the useful projects are small Python libraries or applications that aim to "do one thing well". Some highlights:
 
@@ -43,12 +45,6 @@ I've recently been working on some tiny web-apps for Final Fantasy 14:
 - [FFXIV Timers][ffxiv-timers] — a tiny web app using with [Svelte](https://svelte.dev/).
 - [FFXIV Signposts][ffxiv-signposts] — a tiny web app using [Vue.js](https://vuejs.org) (2023)
 - [FFXIV Daily Quest Tracker][ffxiv-daily-quest-tracker] — a tiny web app using [Alpine.js](https://alpinejs.dev/) (2023)
-
-## Personal life
-
-I also use this site to publish a list of [books I recommend][books], containing some of my favourite works of fiction.
-
-You can find me at [@borntyping][cohost] on cohost.
 
 ## Posts
 
@@ -73,7 +69,6 @@ You can find me at [@borntyping][cohost] on cohost.
 [github]: https://github.com/borntyping/
 [github-sandbox]: https://github.com/borntyping-sandbox/
 [gitlab]: https://gitlab.com/borntyping/
-[email]: mailto:sam@borntyping.co.uk
 [linkedin]: https://www.linkedin.com/in/borntyping/
 [cohost]: https://cohost.org/borntyping
 
@@ -84,6 +79,3 @@ You can find me at [@borntyping][cohost] on cohost.
 [simple_logger]: https://github.com/borntyping/rust-simple_logger
 [dice]: https://github.com/borntyping/python-dice
 [Vancelle]: https://github.com/borntyping/vancelle
-
-[books]: {% link books.md %}
-[open-source]: {% link open-source.md %}
