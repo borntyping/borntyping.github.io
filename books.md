@@ -94,13 +94,14 @@ The comic books I grew up with. Some of them have not aged well.
 
 A very short list of the games I love for their stories, rather than everything I've enjoyed playing.
 
-- _**Death Stranding**_ (2019), Hideo Kojima / Kojima Productions
-- _Dwarf Fortress_ (2006), Tarn Adams, Zach Adams
+- _**Death Stranding**_ (2019), Kojima Productions
+- _**The Talos Principle**_ (2014) and _**The Talos Principle 2**_ (2023), Croteam
+- _Dwarf Fortress_ (2006), Tarn Adams and Zach Adams
 - _Divinity: Original Sin 2_ (2017), Larian Studios
 - _Dishonoured_ (2012), Arkane Studios
+- _Final Fantasy XIV_ (2013), Square Enix
 - _Firewatch_ (2016), Campo Santo
-- _NieR:Automata_ (2017),  Yoko Taro / PlatinumGames
-- _The Talos Principle_ (2014), Croteam
+- _NieR:Automata_ (2017), PlatinumGames
 
 ### Films
 
