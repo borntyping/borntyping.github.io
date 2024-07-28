@@ -19,7 +19,8 @@ I'm at my best when working on tools for other engineers, and have broad experie
 
 I'm an expert Python programmer, and pick up languages like JavaScript, TypeScript, PHP, Rust, Java, and Ruby as and when I need to.
 
-* Production Engineer at [Kaluza][kaluza] (2022–2023)
+* Software Engineer (Object Storage) at [Akamai][akamai] (2024–)
+* Production Engineer (Developer Experience) at [Kaluza][kaluza] (2022–2023)
 * Senior DevOps Engineer at [Datto][datto] (2021–2022)
 * Automation Engineer at [InfoSum][infosum] (2018–2021)
 * IT Consultant at [General Bioinformatics][general-bioinformatics] (2017–2018)
@@ -36,13 +37,13 @@ Most of the useful projects are small Python libraries or applications that aim 
 
 - [Vancelle] — a personal media catalogue (2024)
 - [Switchbox][switchbox] — automation of some personal git workflows (2022)
-- [simple_logger][simple_logger] — an easy to configure Rust logger (2015–ongoing)
+- [simple_logger][simple_logger] — an easy to configure Rust logger (2015)
 - [dice][dice] — a CLI and Python library for parsing and evaluating dice notation (2013)
-- [colorlog][simple_logger] — a popular Python logging formatter (2012–ongoing)
+- [colorlog][simple_logger] — a popular Python logging formatter (2012)
 
 I've recently been working on some tiny web-apps for Final Fantasy 14:
 
-- [FFXIV Timers][ffxiv-timers] — a tiny web app using with [Svelte](https://svelte.dev/).
+- [FFXIV Timers][ffxiv-timers] — a tiny web app using with [Svelte](https://svelte.dev/) (2023).
 - [FFXIV Signposts][ffxiv-signposts] — a tiny web app using [Vue.js](https://vuejs.org) (2023)
 - [FFXIV Daily Quest Tracker][ffxiv-daily-quest-tracker] — a tiny web app using [Alpine.js](https://alpinejs.dev/) (2023)
 
@@ -65,6 +66,7 @@ I've recently been working on some tiny web-apps for Final Fantasy 14:
 [infosum]: https://www.infosum.com/
 [datto]: https://www.datto.com/
 [kaluza]: https://www.kaluza.com/
+[akamai]: https://www.akamai.com/
 
 [github]: https://github.com/borntyping/
 [github-sandbox]: https://github.com/borntyping-sandbox/
