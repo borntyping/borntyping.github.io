@@ -43,7 +43,7 @@ Most of the useful projects are small Python libraries or applications that aim 
 
 I've recently been working on some tiny web-apps for Final Fantasy 14:
 
-- [FFXIV Timers][ffxiv-timers] — a tiny web app using with [Svelte](https://svelte.dev/) (2023).
+- [FFXIV Timers][ffxiv-timers] — a tiny web app using with [Svelte](https://svelte.dev/) (2023)
 - [FFXIV Signposts][ffxiv-signposts] — a tiny web app using [Vue.js](https://vuejs.org) (2023)
 - [FFXIV Daily Quest Tracker][ffxiv-daily-quest-tracker] — a tiny web app using [Alpine.js](https://alpinejs.dev/) (2023)
 
