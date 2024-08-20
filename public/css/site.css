@@ -48,7 +48,21 @@ sup {
   font-size: 0.5em;
   line-height: 100%;
 }
-
+ 
 .post {
-  margin-bottom: 3em !important;
+  border-bottom: 1px solid #eee; /* Matches original .related border-top */
+  margin-bottom: 3rem !important; /* Matches .related padding-top + .related>h2 margin-top. */
+}
+
+/* Similar to .related */
+.footnotes {
+  margin-top: 3rem; /* Matches .post margin-bottom */
+  padding-top: 1rem; /* Matches p margin-bottom */
+  border-top: 1px solid #eee; /* Matches original .related border-top */
+  font-size: 0.75em;
+}
+
+.related {
+  padding-top: 0; /* .post takes care of this instead */
+  border-top: none; /* .post takes care of this instead */
 }
