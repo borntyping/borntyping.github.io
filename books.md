@@ -59,8 +59,8 @@ Not all fiction fits into a neat category, but these hard-to-categorise entries 
 - _**Shlock Mercenary**_, Howard Taylor ([webcomic][schlock mercenary])
 - _**Questionable Content**_, Jeph Jacques ([webcomic][questionable content])
 - _**Mister Vimes'd Go Spare!**_, Lunik ([fanfiction][mr vimes'd go spare])
+- _**The Wandering Inn**_, pirateaba ([web serial][the wandering inn])
 - _The Order of the Stick_, Rich Burlew ([webcomic][order of the stick])
-- _The Wandering Inn_, ([web serial][the wandering inn])
 
 ### Young adult fiction
 
