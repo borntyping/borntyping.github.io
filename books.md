@@ -99,7 +99,8 @@ A very short list of the games I love for their stories, rather than everything 
 - _Dwarf Fortress_ (2006), Tarn Adams and Zach Adams
 - _Divinity: Original Sin 2_ (2017), Larian Studios
 - _Dishonoured_ (2012), Arkane Studios
-- _Final Fantasy XIV_ (2013), Square Enix
+- _Fallen London_ (2009–), Failbetter Games
+- _Final Fantasy XIV_ (2013–), Square Enix
 - _Firewatch_ (2016), Campo Santo
 - _NieR:Automata_ (2017), PlatinumGames
 
