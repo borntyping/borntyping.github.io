@@ -104,17 +104,13 @@ A very short list of the games I love for their stories, rather than everything 
 - _Firewatch_ (2016), Campo Santo
 - _NieR:Automata_ (2017), PlatinumGames
 
-### Films
+### Films and television
 
 Not the films I like, but the films I _love_.
 
 - _**Speed Racer**_ (2008), The Wachowski Sisters
 - _Knives Out_ (2019), Rian Johnson
-
-### Television
-
 - _Love Death + Robots_ (2019)
-- _The Umbrella Academy_ (2019)
 
 [methods of rationality]: http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality
 [mr vimes'd go spare]: http://archiveofourown.org/works/244534
