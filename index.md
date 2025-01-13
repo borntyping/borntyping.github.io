@@ -13,13 +13,14 @@ I use this site to publish a list of [books I recommend]({% link books.md %}) an
 
 You can find me at [Sam Clements][linkedin] on LinkedIn.
 
-I'm a software engineer with a history of developing internal tools and processes for engineering teams. I've worked in teams labeled "operations", "devops", "infrastructure", "developer experience", and "platform engineering"; always with the goal of making my peers more effective.
+I've spent my career building tools and processes for people that run software.
+I've worked in teams labeled "operations", "devops", "infrastructure", "developer experience", and "platform engineering"; always with the goal of making things easier for my co-workers.
 
 I'm at my best when working on tools for other engineers, and have broad experience across projects that have included complex CI/CD pipelines, web applications, REST APIs, infrastructure-as-code, dependency and release management services, and automated test suites.
 
 I'm an expert Python programmer, and pick up languages like Golang, JavaScript, TypeScript, PHP, Rust, Java, and Ruby as and when I need to.
 
-* Software Engineer (Object Storage) at [Akamai][akamai] (2024–)
+* Software Engineer (Linode Object Storage) at [Akamai][akamai] (2024–)
 * Production Engineer (Developer Experience) at [Kaluza][kaluza] (2022–2023)
 * Senior DevOps Engineer at [Datto][datto] (2021–2022)
 * Automation Engineer at [InfoSum][infosum] (2018–2021)
