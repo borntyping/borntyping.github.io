@@ -37,7 +37,7 @@ I list some of my open source projects and contributions on the [Open source pro
 Most of the useful projects are small Python libraries or applications that aim to "do one thing well". Some highlights:
 
 - [python-colorlog][simple_logger] — a popular Python logging formatter (2012)
-- [python-dice][dice] — a CLI and Python library for parsing and evaluating dice notation (2013)
+- [python-dice][dice] — a CLI and library for parsing and evaluating dice notation (2013)
 - [rust-psutil][psutil] - process and system info library (2015)
 - [rust-simple_logger][simple_logger] — an easy to configure Rust logger (2015)
 - [switchbox][switchbox] — automation of some personal git workflows (2022)
