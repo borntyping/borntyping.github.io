@@ -36,11 +36,11 @@ I list some of my open source projects and contributions on the [Open source pro
 
 Most of the useful projects are small Python libraries or applications that aim to "do one thing well". Some highlights:
 
-- [colorlog][simple_logger] — a popular Python logging formatter (2012)
-- [dice][dice] — a CLI and Python library for parsing and evaluating dice notation (2013)
-- [rust-psutil][rust-psutil] - process and system info library (2015)
-- [simple_logger][simple_logger] — an easy to configure Rust logger (2015)
-- [Switchbox][switchbox] — automation of some personal git workflows (2022)
+- [python-colorlog][simple_logger] — a popular Python logging formatter (2012)
+- [python-dice][dice] — a CLI and Python library for parsing and evaluating dice notation (2013)
+- [rust-psutil][psutil] - process and system info library (2015)
+- [rust-simple_logger][simple_logger] — an easy to configure Rust logger (2015)
+- [switchbox][switchbox] — automation of some personal git workflows (2022)
 
 I've recently been working on some tiny web-apps for myself:
 
@@ -83,4 +83,4 @@ I've recently been working on some tiny web-apps for myself:
 [simple_logger]: https://github.com/borntyping/rust-simple_logger
 [dice]: https://github.com/borntyping/python-dice
 [Vancelle]: https://github.com/borntyping/vancelle
-[rust-psutil]: https://github.com/rust-psutil/rust-psutil/
+[psutil]: https://github.com/rust-psutil/rust-psutil/
