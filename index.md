@@ -36,18 +36,18 @@ I list some of my open source projects and contributions on the [Open source pro
 
 Most of the useful projects are small Python libraries or applications that aim to "do one thing well". Some highlights:
 
-- [Switchbox][switchbox] — automation of some personal git workflows (2022)
-- [simple_logger][simple_logger] — an easy to configure Rust logger (2015)
-- [rust-psutil][rust-psutil] - process and system info library (2015)
-- [dice][dice] — a CLI and Python library for parsing and evaluating dice notation (2013)
 - [colorlog][simple_logger] — a popular Python logging formatter (2012)
+- [dice][dice] — a CLI and Python library for parsing and evaluating dice notation (2013)
+- [rust-psutil][rust-psutil] - process and system info library (2015)
+- [simple_logger][simple_logger] — an easy to configure Rust logger (2015)
+- [Switchbox][switchbox] — automation of some personal git workflows (2022)
 
 I've recently been working on some tiny web-apps for myself:
 
-- [Vancelle] — a personal media catalogue (2024)
-- [FFXIV Timers][ffxiv-timers] — a clock for game events (2023)
-- [FFXIV Signposts][ffxiv-signposts] — a list of FFXIV resources (2023)
 - [FFXIV Daily Quest Tracker][ffxiv-daily-quest-tracker] — a calculator for daily tasks (2023)
+- [FFXIV Signposts][ffxiv-signposts] — a list of FFXIV resources (2023)
+- [FFXIV Timers][ffxiv-timers] — a clock for game events (2023)
+- [Vancelle] — a personal media catalogue (2024)
 
 ## Posts
 
