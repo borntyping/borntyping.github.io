@@ -99,6 +99,7 @@ Games I love for their stories, rather than everything I've enjoyed playing.
 
 - _**Death Stranding**_ (2019) and _**Death Stranding 2**_ (2025), Kojima Productions
 - _**The Talos Principle**_ (2014) and _**The Talos Principle 2**_ (2023), Croteam
+- _**Pathfinder: Kingmaker**_ (2017) and _Pathfinder: Wrath of the Righteous_, Owlcat Games
 - _Baldur's Gate 3_ (2023), Larian Studios
 - _Dwarf Fortress_ (2006), Tarn Adams and Zach Adams
 - _Divinity: Original Sin 2_ (2017), Larian Studios
