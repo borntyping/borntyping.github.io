@@ -5,9 +5,12 @@ theme: theme-base-0c
 permalink: /books/
 ---
 
-Books and media highlighted in bold are the best of this list.
+Recommendations for the stories I love.
+Mostly books, but also includes stories in other formats like TV and games.
+
+The works highlighted in bold are the best of this list.
 They appear in order of preference, while other entries on this list are sorted alphabetically.
-Only the first book in a series is listed, except for special cases, but the entire series usually carries the same recommendation.
+Only the first work in a series is listed—except for special cases—but the entire series usually carries the same recommendation.
 
 Content marked with a ◊ contains content that may be distressing, beyond that which you might normally find in average fantasy or science fiction books.
 
@@ -92,10 +95,11 @@ The comic books I grew up with. Some of them have not aged well.
 
 ### Games
 
-A very short list of the games I love for their stories, rather than everything I've enjoyed playing.
+Games I love for their stories, rather than everything I've enjoyed playing.
 
 - _**Death Stranding**_ (2019) and _**Death Stranding 2**_ (2025), Kojima Productions
 - _**The Talos Principle**_ (2014) and _**The Talos Principle 2**_ (2023), Croteam
+- _Baldur's Gate 3_ (2023), Larian Studios
 - _Dwarf Fortress_ (2006), Tarn Adams and Zach Adams
 - _Divinity: Original Sin 2_ (2017), Larian Studios
 - _Dishonoured_ (2012), Arkane Studios
@@ -106,13 +110,10 @@ A very short list of the games I love for their stories, rather than everything 
 
 ### Films and television
 
-Not the films I like, but the films I _love_.
-
 - _**Speed Racer**_ (2008), The Wachowski Sisters
 - _Knives Out_ (2019), Rian Johnson
-- _Love Death + Robots_ (2019)
+- _The Gorge_ (2025), Scott Derrickson
 
-[methods of rationality]: http://www.fanfiction.net/s/5782108/1/Harry_Potter_and_the_Methods_of_Rationality
 [mr vimes'd go spare]: http://archiveofourown.org/works/244534
 [order of the stick]: http://www.giantitp.com/Comics.html
 [prime intellect]: http://localroger.com/prime-intellect/
