@@ -94,7 +94,7 @@ The comic books I grew up with. Some of them have not aged well.
 
 A very short list of the games I love for their stories, rather than everything I've enjoyed playing.
 
-- _**Death Stranding**_ (2019), Kojima Productions
+- _**Death Stranding**_ (2019) and _**Death Stranding 2**_ (2025), Kojima Productions
 - _**The Talos Principle**_ (2014) and _**The Talos Principle 2**_ (2023), Croteam
 - _Dwarf Fortress_ (2006), Tarn Adams and Zach Adams
 - _Divinity: Original Sin 2_ (2017), Larian Studios
